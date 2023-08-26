@@ -36,7 +36,7 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div >
+    <div className="flex flex-column align-items-center">
       <h1 className="title">ALOHA</h1>
       <input
         className="code"
@@ -50,17 +50,15 @@ function App() {
       ) : (
         jsonData && (
           <div>
-            <pre>
               {jsonData.map((product, index) => (
-                <div className="product" key={index}>
+                <div key={index}>
                   {product.slice(0, 4).map((item, idx) => (
-                    <span className="items" key={idx}>
+                    <span key={idx}>
                       {item}{" "}
                     </span>
                   ))}
                 </div>
               ))}
-            </pre>
           </div>
         )
       )}
