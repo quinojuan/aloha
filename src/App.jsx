@@ -39,7 +39,7 @@ function App() {
     <div className="flex flex-column align-items-center min-w-screen min-h-screen">
       <h1 className="text-7xl">ALOHA</h1>
       <input
-        className="surface-100 text-2xl"
+        className="surface-100 text-2xl mb-3"
         type="text"
         placeholder=""
         value={searchTerm}
@@ -52,9 +52,9 @@ function App() {
           <table className="w-9">
             <thead>
               <tr>
-                <th>Codigo</th>
-                <th>Descripcion</th>
-                <th>Venta</th>
+                <th className="text-left">Codigo</th>
+                <th className="text-left">Descripcion</th>
+                <th className="text-left">Venta</th>
               </tr>
             </thead>
             <tbody>
