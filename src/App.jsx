@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from "react";
 import XLSX from "xlsx/dist/xlsx.full.min.js";
 import "./App.css";
-import "/node_modules/primeflex/primeflex.css"
+import "/node_modules/primeflex/primeflex.css";
 
 function App() {
   const [jsonData, setJsonData] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
 
   const handleFile = () => {
-    const file = "/productos.xls"; // Reemplaza 'nombre-del-archivo.xlsx' con el nombre de tu archivo Excel
+    const file = "/productos2.xls"; // Reemplaza 'nombre-del-archivo.xlsx' con el nombre de tu archivo Excel
 
     fetch(file)
       .then((response) => response.arrayBuffer())
@@ -24,7 +24,7 @@ function App() {
         });
 
         setJsonData(filteredData);
-        console.log(jsonData);
+        console.log({ filteredData });
       })
       .catch((error) => {
         console.error("Error al cargar el archivo:", error);
@@ -36,10 +36,10 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div className="flex flex-column align-items-center">
-      <h1 className="title">ALOHA</h1>
+    <div className="flex flex-column align-items-center min-w-screen min-h-screen">
+      <h1 className="text-7xl">ALOHA</h1>
       <input
-        className="code"
+        className="surface-100 text-2xl"
         type="text"
         placeholder=""
         value={searchTerm}
@@ -49,17 +49,24 @@ function App() {
         <p>Ingrese el código de un producto</p>
       ) : (
         jsonData && (
-          <div>
-              {jsonData.map((product, index) => (
-                <div key={index}>
-                  {product.slice(0, 4).map((item, idx) => (
-                    <span key={idx}>
-                      {item}{" "}
-                    </span>
+          <table className="w-9">
+            <thead>
+              <tr>
+                <th>Codigo</th>
+                <th>Descripcion</th>
+                <th>Venta</th>
+              </tr>
+            </thead>
+            <tbody>
+              {jsonData.map((row, index) => (
+                <tr key={index}>
+                  {row.slice(0, 3).map((cell, cell_idx) => (
+                    <td key={cell_idx}>{cell}</td>
                   ))}
-                </div>
+                </tr>
               ))}
-          </div>
+            </tbody>
+          </table>
         )
       )}
     </div>
