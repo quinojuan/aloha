@@ -56,9 +56,9 @@ function App() {
           <table className="w-11 my-table">
             <thead>
               <tr>
-                <th className="text-left">Codigo</th>
-                <th className="text-left">Descripcion</th>
-                <th className="text-left">Venta</th>
+                <th className="text-left text-xl">Codigo</th>
+                <th className="text-left text-xl">Descripcion</th>
+                <th className="text-left text-xl">Venta</th>
               </tr>
             </thead>
             <tbody>
