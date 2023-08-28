@@ -49,7 +49,7 @@ function App() {
         <p>Ingrese el código de un producto</p>
       ) : (
         jsonData && (
-          <table className="w-9">
+          <table className="w-9 my-table">
             <thead>
               <tr>
                 <th className="text-left">Codigo</th>
