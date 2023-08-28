@@ -36,8 +36,12 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-cyan-200">
-      <img src="/elgalpon.jpeg" alt="imagen" className="mb-4 mt-3" />
+    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-cyan-100">
+      <div className="flex align-items-center">
+
+      <img src="/elgalpon.jpeg" alt="imagen" className="mb-4 mt-3 mr-3" />
+      <h1 className="title resplandor">Aloha</h1>
+      </div>
       <input
         className="surface-100 text-2xl mb-3"
         type="text"

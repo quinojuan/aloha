@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -169,4 +171,13 @@
   border: 1px solid #ddd;
   padding: 8px;
   text-align: left;
+}
+
+.title {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+.resplandor {
+  text-shadow: 0 0 80px #7900eb;
 }
