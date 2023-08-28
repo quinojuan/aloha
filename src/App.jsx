@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="flex flex-column align-items-center min-w-screen min-h-screen">
-      <h1 className="text-7xl">ALOHA</h1>
+      <img src="/elgalpon.jpeg" alt="imagen" />
       <input
         className="surface-100 text-2xl mb-3"
         type="text"
