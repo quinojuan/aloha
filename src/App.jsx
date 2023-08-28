@@ -36,21 +36,21 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-cyan-100">
+    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-pink-50">
       <div className="flex align-items-center">
 
       <img src="/elgalpon.jpeg" alt="imagen" className="mb-4 mt-3 mr-3" />
       <h1 className="title resplandor">Aloha</h1>
       </div>
       <input
-        className="surface-100 text-2xl mb-3"
+        className="surface-100 text-2xl mb-3 p-2 text-center"
         type="text"
         placeholder=""
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       {searchTerm == "" ? (
-        <p className="text-xl">Ingrese el código de un producto</p>
+        <p className="text-xl text-pink-900">Ingrese el código de un producto</p>
       ) : (
         jsonData && (
           <table className="w-11 my-table">
