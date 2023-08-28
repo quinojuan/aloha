@@ -36,8 +36,8 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div className="flex flex-column align-items-center min-w-screen min-h-screen">
-      <img src="/elgalpon.jpeg" alt="imagen" />
+    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-cyan-200">
+      <img src="/elgalpon.jpeg" alt="imagen" className="mb-4 mt-3" />
       <input
         className="surface-100 text-2xl mb-3"
         type="text"
@@ -46,7 +46,7 @@ function App() {
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       {searchTerm == "" ? (
-        <p>Ingrese el código de un producto</p>
+        <p className="text-xl">Ingrese el código de un producto</p>
       ) : (
         jsonData && (
           <table className="w-11 my-table">
