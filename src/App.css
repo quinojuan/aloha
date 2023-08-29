@@ -187,3 +187,18 @@ tbody tr td:last-child {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+}
+
+.content {
+  min-height: calc(100vh - 50px);
+  padding: 20px;
+  box-sizing: border-box;
+}

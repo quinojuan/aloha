@@ -35,7 +35,7 @@ function App() {
   }, [searchTerm]);
 
   return (
-    <div className="flex flex-column align-items-center min-w-screen min-h-screen bg-pink-50">
+    <div className="flex flex-column align-items-center bg-pink-50 content">
       <div className="flex align-items-center">
 
       <img src="/elgalpon.jpeg" alt="imagen" className="mb-4 mt-3 mr-3" />
