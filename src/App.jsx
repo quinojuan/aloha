@@ -17,10 +17,10 @@ function App() {
         const worksheet = workbook.Sheets[workbook.SheetNames[0]];
         const dataJson = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
         const filteredData = dataJson.filter((product) => {
-          const productCode = product[0]?.toString(); // Obtén el código del producto de la primera columna
-
+          const productCode = product[0]?.toString() // Obtén el código del producto de la primera columna
+            console.log({productCode})
           // Realiza la comparación y devuelve true si el código del producto incluye el término de búsqueda
-          return productCode && productCode.includes(searchTerm);
+          return productCode && productCode === searchTerm;
         });
 
         setJsonData(filteredData);
