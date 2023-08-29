@@ -42,7 +42,7 @@ function App() {
       <h1 className="title resplandor">Aloha</h1>
       </div>
       <input
-        className="surface-100 text-2xl mb-3 p-2 text-center"
+        className="surface-100 text-2xl mb-3 p-2 text-center border-round-lg"
         type="text"
         placeholder=""
         value={searchTerm}
