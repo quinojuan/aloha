@@ -1,245 +1,245 @@
 Codigo	Descripcion	Precio Venta	Precio Mayoreo	Inventario	Inv, Minimo	Departamento
-1	Conjunto Frisa Varon 6/16	7875	0	44	1	el galpon
-2	Conjunto Frisa Nena 6/16	7875	0	42	1	el galpon
-3	Conjunto Nena Y Nene MPG	6375	0	33	1	el galpon
-4	Conjunto 1 Y 2 Bebe	6375	0	9	1	el galpon
+1	Conjunto Frisa Varon 6/16	7900	0	44	1	el galpon
+2	Conjunto Frisa Nena 6/16	7900	0	42	1	el galpon
+3	Conjunto Nena Y Nene MPG	6400	0	33	1	el galpon
+4	Conjunto 1 Y 2 Bebe	6400	0	9	1	el galpon
 5	Camperas DeAlgodon Hombre Especial	8500	0	5	0	el galpon
-6	Camperas DeAlgodon Hombre Normal	7375	0	13	1	el galpon
-7	Camperas DeAlgodon Dama	7375	0	14	1	el galpon
-8	Busos DeAlgodon Hombre	6750	0	5	1	el galpon
-9	Busos De Unisex Pinguino	6625	0	7	0	el galpon
-10	Busos DeAlgodon Hombre	7750	0	2	1	el galpon
-11	Busos Con Capucha Talles 2 / 6	4375	0	19	1	el galpon
+6	Camperas DeAlgodon Hombre Normal	7400	0	13	1	el galpon
+7	Camperas DeAlgodon Dama	7400	0	14	1	el galpon
+8	Busos DeAlgodon Hombre	6800	0	5	1	el galpon
+9	Busos De Unisex Pinguino	6700	0	7	0	el galpon
+10	Busos DeAlgodon Hombre	7800	0	2	1	el galpon
+11	Busos Con Capucha Talles 2 / 6	4400	0	19	1	el galpon
 12	Busitos Cuello Redondo Talle 6 /14	2500	0	4	1	el galpon
-13	Camperas DeAlgodon 2 / 14	4250	0	3	1	el galpon
-14	Busos Peluche 6 /14	6375	0	0	1	el galpon
-15	Babuchas MPG Unisex	2625	0	4	1	el galpon
+13	Camperas DeAlgodon 2 / 14	4300	0	3	1	el galpon
+14	Busos Peluche 6 /14	6400	0	0	1	el galpon
+15	Babuchas MPG Unisex	2700	0	4	1	el galpon
 16	Babuchas 2/8 Nena Y Nene	3500	0	32	0	el galpon
-17	Babuchas, 8 /16 Nena Y Nene	4125	0	43	1	el galpon
-18	Yoguins	4875	0	5	0	el galpon
+17	Babuchas, 8 /16 Nena Y Nene	4200	0	43	1	el galpon
+18	Yoguins	4900	0	5	0	el galpon
 19	Calzas Frisadas Talle 1,2,3	2500	0	16	0	el galpon
-20	Calzas 2/6 Media Estacion	1750	0	7	0	el galpon
-21	Camperas Juvenil 4/16 Media Estacion Bengalina	5875	0	13	1	el galpon
-22	Buzos Estampado 6/16 Con Capuchas	5250	0	9	1	el galpon
-23	Buzos Con Estampados 6/16	4125	0	21	1	el galpon
-24	Camperas DeAlgodon Talle 3,4,5	4250	0	2	1	el galpon
-25	Camisetas Inter De MiamiAdulto	7125	0	3	1	el galpon
+20	Calzas 2/6 Media Estacion	1800	0	7	0	el galpon
+21	Camperas Juvenil 4/16 Media Estacion Bengalina	5900	0	13	1	el galpon
+22	Buzos Estampado 6/16 Con Capuchas	5300	0	9	1	el galpon
+23	Buzos Con Estampados 6/16	4200	0	21	1	el galpon
+24	Camperas DeAlgodon Talle 3,4,5	4300	0	2	1	el galpon
+25	Camisetas Inter De MiamiAdulto	7200	0	3	1	el galpon
 26	Camiseta Inter Miami 6/16	6000	0	6	1	el galpon
-27	Camisetas VariasAdulto	5125	0	34	1	el galpon
-28	Camisetas Varias	5250	0	15	1	el galpon
-29	Remeras Deportivas Dama Talle Normal	4875	0	3	1	el galpon
+27	Camisetas VariasAdulto	5200	0	34	1	el galpon
+28	Camisetas Varias	5300	0	15	1	el galpon
+29	Remeras Deportivas Dama Talle Normal	4900	0	3	1	el galpon
 30	Remeras Deportivas Hombre Talle Normal	6000	0	6	1	el galpon
-31	Remeras Deportivas Juvenil 12 / 16	3750	0	10	1	el galpon
+31	Remeras Deportivas Juvenil 12 / 16	3800	0	10	1	el galpon
 32	Calza Deportiva Juvenil 8 / 16	4000	0	18	0	el galpon
 33	Calzas DeAlgodon 8 / 16	4000	0	19	0	el galpon
-34	Calzas Friza   Talle 2 / 8	2250	0	51	12	el galpon
-35	Calzas Friza Talles 10 / 16	3375	0	24	0	el galpon
+34	Calzas Friza   Talle 2 / 8	2300	0	51	12	el galpon
+35	Calzas Friza Talles 10 / 16	3400	0	24	0	el galpon
 36	Remeras Deportivas Niño  Talles 4,6,8	3500	0	12	0	el galpon
 37	Remeras Basicas Talle 2/6 Nena Y Nene	2500	0	12	2	el galpon
 38	Remeras Basicas Talles 8 / 12	3000	0	14	0	el galpon
-39	Remeras Basicas Juvenil 12 / 16 Nene Y Varon	3375	0	9	2	el galpon
+39	Remeras Basicas Juvenil 12 / 16 Nene Y Varon	3400	0	9	2	el galpon
 40	Poleras Con Cuello 6/16 Unisex	3000	0	17	0	el galpon
 41	PolerasAdulto Unisex	4000	0	4	0	el galpon
-42	Remeras Termicas	3625	0	3	0	el galpon
+42	Remeras Termicas	3700	0	3	0	el galpon
 43	Remeras Basicas Hombre	3500	0	8	1	el galpon
-44	Remeras Hombre Lacoste	4875	0	7	2	el galpon
+44	Remeras Hombre Lacoste	4900	0	7	2	el galpon
 45	Remeras Hombres  Economicas Lisas	3500	0	5	0	el galpon
-46	Chombas Hombre Especial	5750	0	4	1	el galpon
-47	Remeras De Dama	4250	0	1	1	el galpon
-48	Calzas Friza Especial	5250	0	13	1	el galpon
-49	Calzas Friza Lisas 1Al 4 Normal	4375	0	19	1	el galpon
-50	Calzas Frizas 1Al 4 Normal Estampadas	3750	0	5	1	el galpon
-51	Calzas De Verano Lisas  2Al 5 Especial	5750	0	1	0	el galpon
+46	Chombas Hombre Especial	5800	0	4	1	el galpon
+47	Remeras De Dama	4300	0	1	1	el galpon
+48	Calzas Friza Especial	5300	0	13	1	el galpon
+49	Calzas Friza Lisas 1Al 4 Normal	4400	0	19	1	el galpon
+50	Calzas Frizas 1Al 4 Normal Estampadas	3800	0	5	1	el galpon
+51	Calzas De Verano Lisas  2Al 5 Especial	5800	0	1	0	el galpon
 52	Calzas De Verano Estampadas 1Al 4 Normal	4500	0	3	1	el galpon
-53	CALZAS LARGAS  ESTAMPADAS 	4750	0	1	1	el galpon
-54	Calzas DeAlgodon	3250	0	1	0	el galpon
+53	CALZAS LARGAS  ESTAMPADAS 	4800	0	1	1	el galpon
+54	Calzas DeAlgodon	3300	0	1	0	el galpon
 55	Calza Termica	3500	0	1	0	el galpon
 56	Calzas 3/4 Estampadas	3000	0	2	1	el galpon
-57	Babuchas Y Jogguins	4250	0	15	2	el galpon
+57	Babuchas Y Jogguins	4300	0	15	2	el galpon
 58	Babuchas Dama Normal	4500	0	4	1	el galpon
-59	Babuchas Dama 2xlAl 5 Xl Especiales	5250	0	13	1	el galpon
-60	Babuchas Cargo Dama  Con Tiras	5750	0	0	1	el galpon
-61	Babuchas Juvenil 10 /16	3375	0	5	1	el galpon
+59	Babuchas Dama 2xlAl 5 Xl Especiales	5300	0	13	1	el galpon
+60	Babuchas Cargo Dama  Con Tiras	5800	0	0	1	el galpon
+61	Babuchas Juvenil 10 /16	3400	0	5	1	el galpon
 62	Babuchas Y Joguins Hombre Normal	4500	0	2	1	el galpon
-63	JoguinsAcetato Hombre Depotivo	5875	0	2	0	el galpon
-64	Joguns Especial Hombre	5250	0	12	1	el galpon
-65	Babuchas Y Joguins  Deportivas De Verano Normal	6750	0	18	0	el galpon
+63	JoguinsAcetato Hombre Depotivo	5900	0	2	0	el galpon
+64	Joguns Especial Hombre	5300	0	12	1	el galpon
+65	Babuchas Y Joguins  Deportivas De Verano Normal	6800	0	18	0	el galpon
 66	Calzas Cortas Lisas Normal	2500	0	6	1	el galpon
-67	Calzas Cortas Convinadas Normal	2750	0	6	1	el galpon
-68	Pantalon De Grafa Cargo 40-48	10875	0	3	4	el galpon
+67	Calzas Cortas Convinadas Normal	2800	0	6	1	el galpon
+68	Pantalon De Grafa Cargo 40-48	10900	0	3	4	el galpon
 69	Pantalon De Grafa Cargo Normal	9500	0	2	1	el galpon
-70	Pantalon De Grafa	10375	0	20	1	el galpon
-71	Pantalon De Grafa Economico	6750	0	2	1	el galpon
+70	Pantalon De Grafa	10400	0	20	1	el galpon
+71	Pantalon De Grafa Economico	6800	0	2	1	el galpon
 72	Camisas De Grafa Normal M - 2 XL	10000	0	13	1	el galpon
-73	Media Bombacha De Campo 10 / 16	8250	0	6	1	el galpon
+73	Media Bombacha De Campo 10 / 16	8300	0	6	1	el galpon
 74	Media Bombacha De Campo 40-48	10000	0	13	1	el galpon
-75	Jeans Juvenil 10/16 Nena	5625	0	8	1	el galpon
+75	Jeans Juvenil 10/16 Nena	5700	0	8	1	el galpon
 76	Jeans Juvenil 10/16 Nena	6500	0	10	1	el galpon
-77	Jeans 10/16 Nena Cargo	6750	0	3	1	el galpon
+77	Jeans 10/16 Nena Cargo	6800	0	3	1	el galpon
 78	Jeans Dama Chupin  36/46	8000	0	65	1	el galpon
-79	Jeans 36/46	7125	0	11	1	el galpon
-80	Jeans Dama Chupin  Especial	8875	0	14	1	el galpon
-81	Jeans Vengalina Niño 2Al 8	5750	0	7	1	el galpon
+79	Jeans 36/46	7200	0	11	1	el galpon
+80	Jeans Dama Chupin  Especial	8900	0	14	1	el galpon
+81	Jeans Vengalina Niño 2Al 8	5800	0	7	1	el galpon
 82	Jeans Cargo Niño 4Al 8	6000	0	6	1	el galpon
-83	Babuchas Cargo Niño 10/16 Gabardina	6375	0	4	1	el galpon
+83	Babuchas Cargo Niño 10/16 Gabardina	6400	0	4	1	el galpon
 84	Jeans Juvenil 10Al 16	7000	0	11	1	el galpon
-85	Jeans Juvenil 4Al 10	5250	0	2	0	el galpon
-86	Jeans Juvenil 10Al 12	5250	0	6	1	el galpon
-87	Jeans Juvenil 10Al 16	5875	0	32	1	el galpon
-88	Jeans Babuchas Cargo  Hombre 36/46	8250	0	5	1	el galpon
-89	Jeans De Hombre Chupin 36Al 46	9375	0	22	1	el galpon
-90	Jeaans Hombre Clasico 36/46	9375	0	20	1	el galpon
-91	Jeans Hombre Clasico Especial 38Al 54	10250	0	22	1	el galpon
-92	Camisas De Jeans Normal Hombre	9375	0	14	1	el galpon
-93	Camisas De Jeans Hombre Especial	10125	0	9	1	el galpon
-94	Sabanas De 1 Plaza Y Media	12750	0	5	1	el galpon
-95	Sabanas  2 Plaza Y Media	15750	0	2	1	el galpon
+85	Jeans Juvenil 4Al 10	5300	0	2	0	el galpon
+86	Jeans Juvenil 10Al 12	5300	0	6	1	el galpon
+87	Jeans Juvenil 10Al 16	5900	0	32	1	el galpon
+88	Jeans Babuchas Cargo  Hombre 36/46	8300	0	5	1	el galpon
+89	Jeans De Hombre Chupin 36Al 46	9400	0	22	1	el galpon
+90	Jeaans Hombre Clasico 36/46	9400	0	20	1	el galpon
+91	Jeans Hombre Clasico Especial 38Al 54	10300	0	22	1	el galpon
+92	Camisas De Jeans Normal Hombre	9400	0	14	1	el galpon
+93	Camisas De Jeans Hombre Especial	10200	0	9	1	el galpon
+94	Sabanas De 1 Plaza Y Media	12800	0	5	1	el galpon
+95	Sabanas  2 Plaza Y Media	15800	0	2	1	el galpon
 96	Manta Polar Bebe	4500	0	3	1	el galpon
-97	Mantas  Polar 2 Plaza	6750	0	6	1	el galpon
-98	Mochilas Economicas	6750	0	20	1	el galpon
-99	Botin Con Tapones 40Al 44	11250	0	11	1	el galpon
+97	Mantas  Polar 2 Plaza	6800	0	6	1	el galpon
+98	Mochilas Economicas	6800	0	20	1	el galpon
+99	Botin Con Tapones 40Al 44	11300	0	11	1	el galpon
 100	Botin Con Tapon Del 34Al 39	11000	0	10	1	el galpon
-101	Botin Con Tapon 28Al 33	9750	0	10	1	el galpon
-102	Botin De Futbol 5 Del 28Al 33	9750	0	11	1	el galpon
+101	Botin Con Tapon 28Al 33	9800	0	10	1	el galpon
+102	Botin De Futbol 5 Del 28Al 33	9800	0	11	1	el galpon
 103	Botin De Futbol 5 Del 34Al 39	11000	0	14	0	el galpon
-104	Botin De Futbol 5 Del 39Al 44	11250	0	10	1	el galpon
+104	Botin De Futbol 5 Del 39Al 44	11300	0	10	1	el galpon
 105	Zapatillas Panchas Con Brillo ( Ofertas )	4500	0	1	0	el galpon
-106	Tohallitas De Mano Chicas	750	0	14	1	el galpon
-107	Toahallas De Mano	1875	0	6	1	el galpon
-108	Tohallon Indu	3375	0	7	1	el galpon
-109	Toahallon Luki	5750	0	2	1	el galpon
-110	Toahallon River Boca	2875	0	8	1	el galpon
-111	Tohallon Indu Lindos	3750	0	12	1	el galpon
+106	Tohallitas De Mano Chicas	800	0	14	1	el galpon
+107	Toahallas De Mano	1900	0	6	1	el galpon
+108	Tohallon Indu	3400	0	7	1	el galpon
+109	Toahallon Luki	5800	0	2	1	el galpon
+110	Toahallon River Boca	2900	0	8	1	el galpon
+111	Tohallon Indu Lindos	3800	0	12	1	el galpon
 112	Repasadores Comunes	500	0	77	1	el galpon
-113	Almoahadones	5250	0	3	0	el galpon
-114	Ojotas Unisex 24Al 29	2625	0	11	1	el galpon
+113	Almoahadones	5300	0	3	0	el galpon
+114	Ojotas Unisex 24Al 29	2700	0	11	1	el galpon
 115	Ojotas 30Al 41	3000	0	22	1	el galpon
-116	Ojotas 35Al 39 Nike Dama	3750	0	8	1	el galpon
-117	Ojotas Nike Hombre 39Al 45	4250	0	12	1	el galpon
+116	Ojotas 35Al 39 Nike Dama	3800	0	8	1	el galpon
+117	Ojotas Nike Hombre 39Al 45	4300	0	12	1	el galpon
 118	Ojotas 34Al 39 Varon	3000	0	21	1	el galpon
-119	Zapitos 17Al 24	2750	0	9	1	el galpon
+119	Zapitos 17Al 24	2800	0	9	1	el galpon
 120	Zapitos 24Al 29	3000	0	14	1	el galpon
 121	Zapitos 30Al 35	3500	0	25	1	el galpon
 122	Zapitos 35Al 39 Hombre Y Dama	4000	0	29	1	el galpon
 123	Medias Nene Y Nena 8Al 10 Invierno	500	0	141	1	el galpon
 124	Medias 3/4 Dama	500	0	99	1	el galpon
 125	Medias 3/4 Hombre	500	0	5	1	el galpon
-126	Medias 35AL 40  Soquete Dama Y Hombre	375	0	140	1	el galpon
-127	Medias Bebe 1 Y 2	375	0	66	1	el galpon
+126	Medias 35AL 40  Soquete Dama Y Hombre	400	0	140	1	el galpon
+127	Medias Bebe 1 Y 2	400	0	66	1	el galpon
 128	Medias Nene Y Nena 2Al 4	500	0	111	1	el galpon
 129	Medias Nene Y Nena 6Al 8	500	0	74	1	el galpon
 130	Medias Nene Y Nena 4Al 6	500	0	87	1	el galpon
 131	Short De Futbol Lisos Juvenil	2500	0	11	1	el galpon
-132	Short De FutbolAdulto	2750	0	20	1	el galpon
+132	Short De FutbolAdulto	2800	0	20	1	el galpon
 133	Medias De Futbol Niño	1500	0	24	1	el galpon
-134	Canilleras Niños	2250	0	18	1	el galpon
-135	Medias De Futbol  Juvenil	1875	0	21	1	el galpon
+134	Canilleras Niños	2300	0	18	1	el galpon
+135	Medias De Futbol  Juvenil	1900	0	21	1	el galpon
 136	Canilleras Juvenil	3000	0	4	1	el galpon
 138	Medias De FutbolAdultos	2500	0	16	1	el galpon
-139	Canilleras De FutbolAdulto	3750	0	9	1	el galpon
-140	Medias Toallas	750	0	87	1	el galpon
-141	Chombas Y Remeras  Juveniles Blancas ( Ofertas )	2250	0	32	0	el galpon
-142	Ofertas Varias De (500  )	750	0	0	1	el galpon
+139	Canilleras De FutbolAdulto	3800	0	9	1	el galpon
+140	Medias Toallas	800	0	87	1	el galpon
+141	Chombas Y Remeras  Juveniles Blancas ( Ofertas )	2300	0	32	0	el galpon
+142	Ofertas Varias De (500  )	800	0	0	1	el galpon
 143	Ofertas (1000  )	1500	0	42	1	el galpon
-144	Boxer  Hombre Uomo Normal	1875	0	41	1	el galpon
+144	Boxer  Hombre Uomo Normal	1900	0	41	1	el galpon
 145	Boxer UOMO Hombre Especial	2000	0	3	1	el galpon
-146	Boxer Uomo Juvenil	1125	0	6	1	el galpon
-147	Boxer Microfibra Juvenil	750	0	35	5	el galpon
+146	Boxer Uomo Juvenil	1200	0	6	1	el galpon
+147	Boxer Microfibra Juvenil	800	0	35	5	el galpon
 148	Boxer Niño 2Al 12	1000	0	11	1	el galpon
-149	Slip Normal	1250	0	1	1	el galpon
-150	Slip Especial	1375	0	5	1	el galpon
-151	Slip Niño	750	0	18	5	el galpon
+149	Slip Normal	1300	0	1	1	el galpon
+150	Slip Especial	1400	0	5	1	el galpon
+151	Slip Niño	800	0	18	5	el galpon
 152	Vedetina Especial Con Detalle En Encaje	1000	0	4	1	el galpon
-153	Vedetina Especial Microfibra	625	0	8	1	el galpon
-154	Vedetinas Normal	750	0	35	5	el galpon
+153	Vedetina Especial Microfibra	700	0	8	1	el galpon
+154	Vedetinas Normal	800	0	35	5	el galpon
 155	Vedetina Careuokin	1000	0	4	1	el galpon
-156	Colales Especiales	750	0	18	1	el galpon
-157	Colalas Normal	750	0	12	1	el galpon
-158	Bombacha De Nena 4Al 10	750	0	9	1	el galpon
-159	Bombacha Jubvenil 10Al 16	750	0	30	1	el galpon
-161	Bombacha De Señora Con Bolsillo	2250	0	12	1	el galpon
-162	Bombacha De Señora Especial	1875	0	10	1	el galpon
+156	Colales Especiales	800	0	18	1	el galpon
+157	Colalas Normal	800	0	12	1	el galpon
+158	Bombacha De Nena 4Al 10	800	0	9	1	el galpon
+159	Bombacha Jubvenil 10Al 16	800	0	30	1	el galpon
+161	Bombacha De Señora Con Bolsillo	2300	0	12	1	el galpon
+162	Bombacha De Señora Especial	1900	0	10	1	el galpon
 163	Corpiños 2 Piezas	3500	0	8	1	el galpon
-164	Corpiño  Varios	2250	0	15	1	el galpon
-165	Corpiños Masajeadores	2750	0	9	1	el galpon
+164	Corpiño  Varios	2300	0	15	1	el galpon
+165	Corpiños Masajeadores	2800	0	9	1	el galpon
 166	Corpiños Especiales	3000	0	18	1	el galpon
-167	Corpiños Principiantes	2875	0	10	1	el galpon
-168	Guantes MagicosAdultos	750	0	70	1	el galpon
+167	Corpiños Principiantes	2900	0	10	1	el galpon
+168	Guantes MagicosAdultos	800	0	70	1	el galpon
 169	Guantes De Dama P/ Moto Dama Bordado	3000	0	17	1	el galpon
-170	Guantes P/ Moto Hombres	3375	0	4	1	el galpon
-171	Guantes DeAdulto Combinados	1875	0	7	1	el galpon
-172	Guantes Lisos De  DamaAdultos	2750	0	12	1	el galpon
-173	Guantes Magicos Juvenil	1250	0	38	1	el galpon
+170	Guantes P/ Moto Hombres	3400	0	4	1	el galpon
+171	Guantes DeAdulto Combinados	1900	0	7	1	el galpon
+172	Guantes Lisos De  DamaAdultos	2800	0	12	1	el galpon
+173	Guantes Magicos Juvenil	1300	0	38	1	el galpon
 174	Guantes Tactil Dama	1500	0	23	1	el galpon
-175	Guantes De Niños Varrios	1125	0	14	1	el galpon
+175	Guantes De Niños Varrios	1200	0	14	1	el galpon
 176	Gorras De Bebe	1500	0	13	1	el galpon
-177	Gorras Juvenil	2250	0	9	1	el galpon
-178	Gorras EconomicasAdulto	2250	0	25	1	el galpon
+177	Gorras Juvenil	2300	0	9	1	el galpon
+178	Gorras EconomicasAdulto	2300	0	25	1	el galpon
 179	Gorras LisasAdulto	3000	0	5	1	el galpon
 180	Sombrero Con CuelloAdulto	5500	0	4	1	el galpon
 181	Sombrero Con Cuello Niño Y Juvenil	4500	0	9	1	el galpon
-182	Sombreros Pilufos	3750	0	9	1	el galpon
+182	Sombreros Pilufos	3800	0	9	1	el galpon
 183	Gorros De Campo	3000	0	12	1	el galpon
 184	Gorros De Campo Italiano	4500	0	1	1	el galpon
-185	Bermudas Niño Con Cinto	5125	0	9	1	el galpon
-186	Bermudas Jeans De Hombre	7250	0	10	1	el galpon
-187	Bermudas De Gabardina Juvenil	5875	0	13	1	el galpon
-188	Bermudas De Jeans 10Al 16	6375	0	23	1	el galpon
-189	Bermudas Irum	8750	0	3	1	el galpon
-190	Bermudas Rum	3625	0	3	1	el galpon
-200	Bermudas De Baño Hombre	3750	0	8	1	el galpon
-201	Bermudas Gabardinas Juvenil	7375	0	6	1	el galpon
-202	Medias De Invierno Dama	625	0	12	1	el galpon
+185	Bermudas Niño Con Cinto	5200	0	9	1	el galpon
+186	Bermudas Jeans De Hombre	7300	0	10	1	el galpon
+187	Bermudas De Gabardina Juvenil	5900	0	13	1	el galpon
+188	Bermudas De Jeans 10Al 16	6400	0	23	1	el galpon
+189	Bermudas Irum	8800	0	3	1	el galpon
+190	Bermudas Rum	3700	0	3	1	el galpon
+200	Bermudas De Baño Hombre	3800	0	8	1	el galpon
+201	Bermudas Gabardinas Juvenil	7400	0	6	1	el galpon
+202	Medias De Invierno Dama	700	0	12	1	el galpon
 203	Bufandas Polar	1500	0	10	0	el galpon
-204	Short Fibrana De Dama	4250	0	10	1	el galpon
+204	Short Fibrana De Dama	4300	0	10	1	el galpon
 205	Bermudas Gabardina  Dama	5500	0	12	1	el galpon
 206	Bermudas Gabardina Especial Dama	7000	0	10	1	el galpon
 207	Camperas Pufer De Niño 4Al 8	9500	0	4	1	el galpon
-208	Campera Del 6Al 10 Nena	10250	0	6	1	el galpon
-209	Campera Rompe Viento Columbia Dama	12750	0	5	1	el galpon
-210	Camperas Rompe Viento Reversible Hombre	14750	0	3	1	el galpon
-211	Campera Rompe VientoAnti Traspirante Hombre	13250	0	5	1	el galpon
-212	Campera Rompe Viento Con Polar Colimbia Hombre	15750	0	2	1	el galpon
-213	Campera Rompe Viento Juvenil	5250	0	2	1	el galpon
-214	Campera Gabardina Hombre	8250	0	1	1	el galpon
-215	Camperas Deportivas Nike Unisex	7375	0	2	1	el galpon
-216	Camperas 6Al 16 Nena	10250	0	5	1	el galpon
-217	Camperas Juvenil 6Al 16 Varon	11750	0	9	1	el galpon
-218	Camoeras Juvenil 4Al 16	10250	0	8	1	el galpon
-219	Campera Niño 2Al 8	9750	0	1	1	el galpon
-220	Chalecos Inflables Hombre Normal	10250	0	4	1	el galpon
-221	Chalecos Inflable Especial Hombre	12750	0	3	1	el galpon
-222	Chalecos Polar Unisex	5750	0	5	1	el galpon
-223	Camperas Inflables Unisex	14750	0	4	1	el galpon
-224	Camperas Inflables Dama	15750	0	5	1	el galpon
-225	Campera Inflables Hombre	16250	0	7	1	el galpon
-226	Camperas Inflable Dama	14250	0	4	1	el galpon
-227	Camperas Pufer Lisos Dama	13250	0	3	1	el galpon
+208	Campera Del 6Al 10 Nena	10300	0	6	1	el galpon
+209	Campera Rompe Viento Columbia Dama	12800	0	5	1	el galpon
+210	Camperas Rompe Viento Reversible Hombre	14800	0	3	1	el galpon
+211	Campera Rompe VientoAnti Traspirante Hombre	13300	0	5	1	el galpon
+212	Campera Rompe Viento Con Polar Colimbia Hombre	15800	0	2	1	el galpon
+213	Campera Rompe Viento Juvenil	5300	0	2	1	el galpon
+214	Campera Gabardina Hombre	8300	0	1	1	el galpon
+215	Camperas Deportivas Nike Unisex	7400	0	2	1	el galpon
+216	Camperas 6Al 16 Nena	10300	0	5	1	el galpon
+217	Camperas Juvenil 6Al 16 Varon	11800	0	9	1	el galpon
+218	Camoeras Juvenil 4Al 16	10300	0	8	1	el galpon
+219	Campera Niño 2Al 8	9800	0	1	1	el galpon
+220	Chalecos Inflables Hombre Normal	10300	0	4	1	el galpon
+221	Chalecos Inflable Especial Hombre	12800	0	3	1	el galpon
+222	Chalecos Polar Unisex	5800	0	5	1	el galpon
+223	Camperas Inflables Unisex	14800	0	4	1	el galpon
+224	Camperas Inflables Dama	15800	0	5	1	el galpon
+225	Campera Inflables Hombre	16300	0	7	1	el galpon
+226	Camperas Inflable Dama	14300	0	4	1	el galpon
+227	Camperas Pufer Lisos Dama	13300	0	3	1	el galpon
 228	Camperas Pufer Camufladas	18000	0	5	1	el galpon
-229	Camperas Dama - YD - Dama	29250	0	4	0	el galpon
-230	Campera Dama ( Boty )	27750	0	3	1	el galpon
+229	Camperas Dama - YD - Dama	29300	0	4	0	el galpon
+230	Campera Dama ( Boty )	27800	0	3	1	el galpon
 231	Campera Dama (santelon)	18000	0	1	0	el galpon
-232	Buzos Maxibusos	11250	0	3	1	el galpon
-233	Buzos Estampados	11250	0	0	1	el galpon
-234	Campera Sin Talle L Sin Frisa	10250	0	0	0	el galpon
-235	Mochilas De Dama Cuero FyL	9750	0	4	1	el galpon
-236	Riñonera Hombre	6750	0	2	1	el galpon
-237	Riñoneras Dama	6375	0	3	1	el galpon
+232	Buzos Maxibusos	11300	0	3	1	el galpon
+233	Buzos Estampados	11300	0	0	1	el galpon
+234	Campera Sin Talle L Sin Frisa	10300	0	0	0	el galpon
+235	Mochilas De Dama Cuero FyL	9800	0	4	1	el galpon
+236	Riñonera Hombre	6800	0	2	1	el galpon
+237	Riñoneras Dama	6400	0	3	1	el galpon
 238	Mochilitas De Jardin	4500	0	4	1	el galpon
 239	Cintos De Cuero Hombre	4500	0	4	1	el galpon
-240	Cinto De Hombre Cuerina	3750	0	3	1	el galpon
-241	Cintos De Dama Varios	2250	0	24	1	el galpon
-242	Vestidos De Fibrana	6750	0	4	1	el galpon
+240	Cinto De Hombre Cuerina	3800	0	3	1	el galpon
+241	Cintos De Dama Varios	2300	0	24	1	el galpon
+242	Vestidos De Fibrana	6800	0	4	1	el galpon
 243	Camisas De Niño 8Al 16	4500	0	13	1	el galpon
-244	Chombas De Niño Polo	3750	0	3	1	el galpon
-245	Shorts De Dama Modal	2250	0	4	1	el galpon
-246	Remeras Dama Sin Cuello	2250	0	4	1	el galpon
+244	Chombas De Niño Polo	3800	0	3	1	el galpon
+245	Shorts De Dama Modal	2300	0	4	1	el galpon
+246	Remeras Dama Sin Cuello	2300	0	4	1	el galpon
 247	SHORT DEPORTIVOADIDAS	4500	0	1	0	el galpon
-248	SHORTS JUVENIL 10AL 16 CON CADENAS	5750	0	3	1	el galpon
-249	SHORT JUVENIL 4AL 14	5750	0	5	1	el galpon
+248	SHORTS JUVENIL 10AL 16 CON CADENAS	5800	0	3	1	el galpon
+249	SHORT JUVENIL 4AL 14	5800	0	5	1	el galpon
 250	SHORT JUVENIL 2AL 8 CON CINTO	5000	0	6	1	el galpon
-251	MUÑECA FLAQUITA	2250	0	5	1	el galpon
-252	MUÑECA BAMPIRINA	3625	0	0	1	el galpon
+251	MUÑECA FLAQUITA	2300	0	5	1	el galpon
+252	MUÑECA BAMPIRINA	3700	0	0	1	el galpon
 253	MUÑECAANITA	4500	0	1	1	el galpon
 254	MUÑECASARIANA	4500	0	2	1	el galpon
 255	MUÑECAS CARTERAAZUL	4500	0	2	1	el galpon
@@ -247,78 +247,78 @@ Codigo	Descripcion	Precio Venta	Precio Mayoreo	Inventario	Inv, Minimo	Departamen
 257	MUÑECAS CON LENTES	4500	0	2	0	el galpon
 258	MUÑECA CON BEBE	4500	0	1	0	el galpon
 259	MUÑECAS CON ZAPATOS	4500	0	2	0	el galpon
-260	MUÑECA SOY LUNA	3625	0	1	0	el galpon
-261	MUÑECA CHARM GIRLS	3625	0	1	0	el galpon
+260	MUÑECA SOY LUNA	3700	0	1	0	el galpon
+261	MUÑECA CHARM GIRLS	3700	0	1	0	el galpon
 262	MUÑECA BEAUTY	5500	0	1	0	el galpon
-263	MUÑECA CAJA NEGRA	6750	0	1	0	el galpon
+263	MUÑECA CAJA NEGRA	6800	0	1	0	el galpon
 264	MUÑECA CONARITO	5500	0	1	0	el galpon
 265	MUÑECA CON COLLAR	4500	0	1	0	el galpon
-266	MUÑECA EMBARAZADA	6750	0	1	0	el galpon
-267	MUÑECA CON CAMARA	5875	0	1	0	el galpon
+266	MUÑECA EMBARAZADA	6800	0	1	0	el galpon
+267	MUÑECA CON CAMARA	5900	0	1	0	el galpon
 268	MUÑECA BOGUI GIRLS	5500	0	0	0	el galpon
 269	MUÑECA MI IDEA	5500	0	1	0	el galpon
-270	MUÑECAS FROCEN	6750	0	2	0	el galpon
-271	MUÑECA FOCEN TOCADOR	8125	0	2	0	el galpon
-272	MUÑECA CON MALETA	5875	0	1	0	el galpon
-273	MUÑECOS INCREIBLES	8125	0	0	0	el galpon
+270	MUÑECAS FROCEN	6800	0	2	0	el galpon
+271	MUÑECA FOCEN TOCADOR	8200	0	2	0	el galpon
+272	MUÑECA CON MALETA	5900	0	1	0	el galpon
+273	MUÑECOS INCREIBLES	8200	0	0	0	el galpon
 274	MUÑECAS VARIAS	4500	0	13	0	el galpon
 275	Muñecas Hapy	5500	0	1	0	el galpon
-276	Muñecas Varias	5875	0	2	0	el galpon
-277	Muñecas Flacas Swets	4125	0	8	0	el galpon
-278	Avangers	3250	0	6	0	el galpon
-279	Avanger	3250	0	10	0	el galpon
-280	Avangers	3250	0	9	0	el galpon
-281	Dragon Boll Z	5125	0	10	0	el galpon
-282	Venom	3250	0	11	0	el galpon
+276	Muñecas Varias	5900	0	2	0	el galpon
+277	Muñecas Flacas Swets	4200	0	8	0	el galpon
+278	Avangers	3300	0	6	0	el galpon
+279	Avanger	3300	0	10	0	el galpon
+280	Avangers	3300	0	9	0	el galpon
+281	Dragon Boll Z	5200	0	10	0	el galpon
+282	Venom	3300	0	11	0	el galpon
 283	Spiderman	5500	0	10	0	el galpon
-284	Batman	6375	0	6	0	el galpon
-285	Spiderman	6375	0	6	0	el galpon
+284	Batman	6400	0	6	0	el galpon
+285	Spiderman	6400	0	6	0	el galpon
 286	Ben 10	4500	0	9	0	el galpon
-287	Naruto	2750	0	7	0	el galpon
-288	Spiderman	2875	0	8	0	el galpon
-289	Maquinitas	2250	0	6	0	el galpon
+287	Naruto	2800	0	7	0	el galpon
+288	Spiderman	2900	0	8	0	el galpon
+289	Maquinitas	2300	0	6	0	el galpon
 290	Metrlleta	5500	0	1	0	el galpon
-291	HombreAraña ConArma	4875	0	0	0	el galpon
-292	Bebotas	5875	0	3	0	el galpon
+291	HombreAraña ConArma	4900	0	0	0	el galpon
+292	Bebotas	5900	0	3	0	el galpon
 293	Pistolas Hidro Gel	4500	0	1	0	el galpon
-294	Cuatry Moto	5875	0	2	0	el galpon
-295	Didacticos	6375	0	2	0	el galpon
-296	Jeep 4x4	2875	0	3	0	el galpon
-297	Camiones Trasportadores	5875	0	2	0	el galpon
+294	Cuatry Moto	5900	0	2	0	el galpon
+295	Didacticos	6400	0	2	0	el galpon
+296	Jeep 4x4	2900	0	3	0	el galpon
+297	Camiones Trasportadores	5900	0	2	0	el galpon
 298	Trunk X 3	5500	0	1	0	el galpon
-299	Auto Control	3625	0	0	0	el galpon
-300	Escabadoras	5875	0	2	0	el galpon
-301	Carterita Toy	2875	0	2	0	el galpon
-302	Motos Didacticos	3750	0	2	0	el galpon
-303	PistolasAvangers	4875	0	2	0	el galpon
-304	Escopetas Mata Pato	2750	0	0	0	el galpon
+299	Auto Control	3700	0	0	0	el galpon
+300	Escabadoras	5900	0	2	0	el galpon
+301	Carterita Toy	2900	0	2	0	el galpon
+302	Motos Didacticos	3800	0	2	0	el galpon
+303	PistolasAvangers	4900	0	2	0	el galpon
+304	Escopetas Mata Pato	2800	0	0	0	el galpon
 305	Termos Premier Con Pico Sebador	18000	0	5	0	el galpon
-306	Pavas Electrica	10250	0	5	1	el galpon
-307	Vasos Cervezero	8250	0	4	1	el galpon
+306	Pavas Electrica	10300	0	5	1	el galpon
+307	Vasos Cervezero	8300	0	4	1	el galpon
 308	Mates De Vidrio	1000	0	3	0	el galpon
-309	Termos Termolar De Vidrio	5750	0	1	1	el galpon
-310	1 Termo ParaAgua DeAcero	4375	0	3	0	el galpon
-311	Cantimplora Niños	2250	0	3	0	el galpon
-312	Cantimplora X 2 Litros	3375	0	1	0	el galpon
-313	Juego De Cubiertos	6375	0	3	1	el galpon
-314	Termolar DeAcero Inoxidable Grande	26250	0	1	0	el galpon
-315	Luz De Emergencias	12250	0	3	1	el galpon
-316	Radio Portatil	5250	0	1	1	el galpon
-317	Linternas 2 Elementos	10875	0	5	1	el galpon
-318	Zapos 40Al 45 Hombre Y Dama 	4250	0	24	1	el galpon
-319	Gorros Kakicaps	3250	0	1	0	el galpon
+309	Termos Termolar De Vidrio	5800	0	1	1	el galpon
+310	1 Termo ParaAgua DeAcero	4400	0	3	0	el galpon
+311	Cantimplora Niños	2300	0	3	0	el galpon
+312	Cantimplora X 2 Litros	3400	0	1	0	el galpon
+313	Juego De Cubiertos	6400	0	3	1	el galpon
+314	Termolar DeAcero Inoxidable Grande	26300	0	1	0	el galpon
+315	Luz De Emergencias	12300	0	3	1	el galpon
+316	Radio Portatil	5300	0	1	1	el galpon
+317	Linternas 2 Elementos	10900	0	5	1	el galpon
+318	Zapos 40Al 45 Hombre Y Dama 	4300	0	24	1	el galpon
+319	Gorros Kakicaps	3300	0	1	0	el galpon
 320	Bleiser	4500	0	1	0	el galpon
-321	Bolzo Floreados Grandes	8750	0	3	1	el galpon
+321	Bolzo Floreados Grandes	8800	0	3	1	el galpon
 322	Bolsos Floreado Chico / 1 NEGRO	7500	0	3	1	el galpon
-323	Bolsos De Viaje  Medianos	7250	0	6	1	el galpon
-324	Bolsos De Viaje Grandes	8875	0	6	1	el galpon
+323	Bolsos De Viaje  Medianos	7300	0	6	1	el galpon
+324	Bolsos De Viaje Grandes	8900	0	6	1	el galpon
 325	Mochilas Negras	8000	0	5	1	el galpon
 326	Anteojos De Sol Niño	2500	0	5	1	el galpon
-327	Anteojos De Sol Cqc, Ray Ban ,  Roch	4375	0	18	1	el galpon
-328	Riñoneras NikeAdidas Puma	6375	0	6	1	el galpon
-329	Remeras De Dama Basicas	3375	0	51	1	el galpon
+327	Anteojos De Sol Cqc, Ray Ban ,  Roch	4400	0	18	1	el galpon
+328	Riñoneras NikeAdidas Puma	6400	0	6	1	el galpon
+329	Remeras De Dama Basicas	3400	0	51	1	el galpon
 330	Polleras De Fibrana	6000	0	12	1	el galpon
-331	Media Bombacha Niño 2Al 8	5875	0	11	1	el galpon
+331	Media Bombacha Niño 2Al 8	5900	0	11	1	el galpon
 332	Calza 3/4 Especial  Talles GGAl 4XL	5500	0	11	1	el galpon
 333	Calzas Cortas Estampadas Normal	3500	0	20	1	el galpon
 334	Calzas Ciclistas Normal	4000	0	10	1	el galpon
@@ -327,381 +327,381 @@ Codigo	Descripcion	Precio Venta	Precio Mayoreo	Inventario	Inv, Minimo	Departamen
 337	Short De Futbol Especial	4500	0	12	1	el galpon
 338	Short Deportivo Normal Economico	4500	0	12	1	el galpon
 339	Short Deportivo Dama	5000	0	14	1	el galpon
-340	Remera Deportiva Dama Normal	5250	0	11	1	el galpon
+340	Remera Deportiva Dama Normal	5300	0	11	1	el galpon
 341	Remera Deportiva De Hombre Comun	5500	0	11	1	el galpon
-342	Remera Deportiva De Hombre Especial	5875	0	11	1	el galpon
-343	Short Deportivo Especial	6750	0	12	1	el galpon
-344	Short Deportivo Normal Bolsillos Con Sierre	6250	0	10	1	el galpon
-345	Pantalon Deportivo Hombre	7125	0	11	1	el galpon
-346	Pantalon Deportivo Dama	7375	0	6	1	el galpon
+342	Remera Deportiva De Hombre Especial	5900	0	11	1	el galpon
+343	Short Deportivo Especial	6800	0	12	1	el galpon
+344	Short Deportivo Normal Bolsillos Con Sierre	6300	0	10	1	el galpon
+345	Pantalon Deportivo Hombre	7200	0	11	1	el galpon
+346	Pantalon Deportivo Dama	7400	0	6	1	el galpon
 347	Pantalon Depotivo Hombre Licra Verano	8000	0	9	1	el galpon
-348	Jeans Hombre Chupin Especial 46Al 54 	10625	0	11	1	el galpon
+348	Jeans Hombre Chupin Especial 46Al 54 	10700	0	11	1	el galpon
 349	Jeans Cargo Licrado Dama Normal	9500	0	8	1	el galpon
-350	Babuchas Unisex Del 2Al 6 	3375	0	20	1	el galpon
-351	PILUFOS DE NIÑOS 	2875	0	3	1	el galpon
-352	BILLETERA HOMBRE CON BROCHE 	5625	0	10	1	el galpon
-353	BILLETERA CON CIERRE 	6750	0	5	1	el galpon
-354	BILLETERA COCODRILO	5625	0	5	1	el galpon
-355	BILLETERA WIERSOON 	5625	0	5	1	el galpon
-356	BILLETERA DAMA 	6875	0	3	1	el galpon
-357	Remeras Niños 2Al 6 	1875	0	22	1	el galpon
-358	REMERAS 2AL 16	2125	0	12	1	el galpon
-359	REMERAS DAMA 	2250	0	10	1	el galpon
-360	REMERAS UNISEX VARIAS 	2250	0	13	1	el galpon
-361	REMERAS LUMINOSAS 	3750	0	12	1	el galpon
-362	REMERASADULTO 	3750	0	2	1	el galpon
+350	Babuchas Unisex Del 2Al 6 	3400	0	20	1	el galpon
+351	PILUFOS DE NIÑOS 	2900	0	3	1	el galpon
+352	BILLETERA HOMBRE CON BROCHE 	5700	0	10	1	el galpon
+353	BILLETERA CON CIERRE 	6800	0	5	1	el galpon
+354	BILLETERA COCODRILO	5700	0	5	1	el galpon
+355	BILLETERA WIERSOON 	5700	0	5	1	el galpon
+356	BILLETERA DAMA 	6900	0	3	1	el galpon
+357	Remeras Niños 2Al 6 	1900	0	22	1	el galpon
+358	REMERAS 2AL 16	2200	0	12	1	el galpon
+359	REMERAS DAMA 	2300	0	10	1	el galpon
+360	REMERAS UNISEX VARIAS 	2300	0	13	1	el galpon
+361	REMERAS LUMINOSAS 	3800	0	12	1	el galpon
+362	REMERASADULTO 	3800	0	2	1	el galpon
 363	REMERASADULTO ESPECIAL	4500	0	3	1	el galpon
 364	REMERAS DAMA SURTIDAS 	3000	0	10	1	el galpon
-365	 REMERAS CHOMBAS NIÑO	2875	0	3	1	el galpon
-366	REMERAS FIBRANA SEÑORA 	2875	0	2	1	el galpon
-367	ROMPE VIENTOS CAMPERAS 	4750	0	5	1	el galpon
+365	 REMERAS CHOMBAS NIÑO	2900	0	3	1	el galpon
+366	REMERAS FIBRANA SEÑORA 	2900	0	2	1	el galpon
+367	ROMPE VIENTOS CAMPERAS 	4800	0	5	1	el galpon
 368	TOP NIÑA 	1500	0	6	1	el galpon
-369	TOP NORMAL 2AL 6	1750	0	7	1	el galpon
+369	TOP NORMAL 2AL 6	1800	0	7	1	el galpon
 370	TOP ESTAMPADOS 1AL 6	2000	0	4	1	el galpon
-371	SHORT FIBRANA JUVENIL 	2250	0	6	1	el galpon
+371	SHORT FIBRANA JUVENIL 	2300	0	6	1	el galpon
 372	SHORT DE VENGALINA NENA 	2000	0	5	1	el galpon
 373	SHORTALGODON BEBE 	2000	0	5	1	el galpon
-374	SHORT DEALGODON JUVENIL	2875	0	5	1	el galpon
-375	CALZAS CONJUNTO NIÑA 	3750	0	5	1	el galpon
-376	BABUCHAS NIÑO	3125	0	1	1	el galpon
-377	CARTERAS 	3125	0	0	1	el galpon
-378	CARTERAS PORTA CELULAR 	2125	0	3	1	el galpon
+374	SHORT DEALGODON JUVENIL	2900	0	5	1	el galpon
+375	CALZAS CONJUNTO NIÑA 	3800	0	5	1	el galpon
+376	BABUCHAS NIÑO	3200	0	1	1	el galpon
+377	CARTERAS 	3200	0	0	1	el galpon
+378	CARTERAS PORTA CELULAR 	2200	0	3	1	el galpon
 379	RIÑONERAS VARIAS 	2500	0	8	1	el galpon
-380	MOCHILAS VARIAS HOMBREARAÑA ETC	18125	0	5	1	el galpon
-381	MOCHILAS CON CORDON	10625	0	2	1	el galpon
-382	Polleras De Jeans Varios 	6125	0	35	1	el galpon
+380	MOCHILAS VARIAS HOMBREARAÑA ETC	18200	0	5	1	el galpon
+381	MOCHILAS CON CORDON	10700	0	2	1	el galpon
+382	Polleras De Jeans Varios 	6200	0	35	1	el galpon
 383	SHORT DE JEANS VARIOS 	6500	0	8	1	el galpon
-384	CAMPERAS PELUCHE  OFERTAS	5625	0	2	0	el galpon
-385	BABUCHAS DAMA NIKE 	5625	0	7	1	el galpon
-386	MEDIAS BEBE 0AL 1	375	0	8	1	el galpon
-387	MEDIAS 2AL 4 	375	0	164	1	el galpon
-388	MEDIAS 4AL 6 SOQUETES 	375	0	120	1	el galpon
-389	MEDIAS SOQUETES 6AL 8	375	0	114	1	el galpon
-390	MEDIAS 8AL 10 	375	0	120	1	el galpon
-391	MEDIAS 40AL 45 SOQUETES 	375	0	30	1	el galpon
-392	OJOTAS VARIAS 	2750	0	38	1	el galpon
-393	OJOTAS MIKEY / HOMBREARAÑA 	3125	0	6	1	el galpon
-394	OJOTAS CON BRILLO 	3750	0	4	1	el galpon
-395	ZANDALIAS NENE /NENA 	4375	0	13	1	el galpon
+384	CAMPERAS PELUCHE  OFERTAS	5700	0	2	0	el galpon
+385	BABUCHAS DAMA NIKE 	5700	0	7	1	el galpon
+386	MEDIAS BEBE 0AL 1	400	0	8	1	el galpon
+387	MEDIAS 2AL 4 	400	0	164	1	el galpon
+388	MEDIAS 4AL 6 SOQUETES 	400	0	120	1	el galpon
+389	MEDIAS SOQUETES 6AL 8	400	0	114	1	el galpon
+390	MEDIAS 8AL 10 	400	0	120	1	el galpon
+391	MEDIAS 40AL 45 SOQUETES 	400	0	30	1	el galpon
+392	OJOTAS VARIAS 	2800	0	38	1	el galpon
+393	OJOTAS MIKEY / HOMBREARAÑA 	3200	0	6	1	el galpon
+394	OJOTAS CON BRILLO 	3800	0	4	1	el galpon
+395	ZANDALIAS NENE /NENA 	4400	0	13	1	el galpon
 396	CAMISON DEALGODON 	4000	0	4	1	el galpon
-397	TERMO STANLEY 	10625	0	0	1	el galpon
-398	SLIPSADULTO NORMAL 	1625	0	12	1	el galpon
-399	JEANS MON LISOS Y CON ROTURAS 	8625	0	12	1	el galpon
+397	TERMO STANLEY 	10700	0	0	1	el galpon
+398	SLIPSADULTO NORMAL 	1700	0	12	1	el galpon
+399	JEANS MON LISOS Y CON ROTURAS 	8700	0	12	1	el galpon
 400	ZAPITOS 24AL 29 ECONOMICOS 	2500	0	12	1	el galpon
-401	TERMOLARASTONIA 	5875	0	8	1	el galpon
-402	VENTILADOR DE PIES REALITY18 	31875	0	4	1	el galpon
-A1	ZAPATILLAS HOMBRE PUMA YADIDAS 39AL 44	14375	0	16	1	ALOHA
-A10	ZAPATILLAS SALOMON UNISEX 35AL 40 	11250	0	5	1	ALOHA
-A100	CALZAS CORTAS NORMAL	2875	0	23	1	ALOHA
+401	TERMOLARASTONIA 	5900	0	8	1	el galpon
+402	VENTILADOR DE PIES REALITY18 	31900	0	4	1	el galpon
+A1	ZAPATILLAS HOMBRE PUMA YADIDAS 39AL 44	14400	0	16	1	ALOHA
+A10	ZAPATILLAS SALOMON UNISEX 35AL 40 	11300	0	5	1	ALOHA
+A100	CALZAS CORTAS NORMAL	2900	0	23	1	ALOHA
 A101	CALZAS CICLISTA ESPECIAL	4500	0	4	1	ALOHA
-A102	CALZAS SHORT POLLERA NORMAL	4875	0	7	1	ALOHA
-A103	CALZAS BAIKER BRASILERAS	6875	0	2	1	ALOHA
-A104	PANTALON DEPORTIVO HOMBRE TALLE NORMAL	7125	0	10	1	ALOHA
+A102	CALZAS SHORT POLLERA NORMAL	4900	0	7	1	ALOHA
+A103	CALZAS BAIKER BRASILERAS	6900	0	2	1	ALOHA
+A104	PANTALON DEPORTIVO HOMBRE TALLE NORMAL	7200	0	10	1	ALOHA
 A105	PANTALON DEPORTIVO CARGO TALLES NORMAL	6000	0	4	1	ALOHA
 A106	PANTALON DE VESTIR CON CINTOS FRISADOS NORMAL	6000	0	10	1	ALOHA
 A107	PANTALON DE VESTIR FRIZADO  TALLES ESPECIAL	6500	0	9	1	ALOHA
 A108	PANTALON CARGO FRISZADOS DEALGODON MAL XL	6500	0	8	1	ALOHA
 A109	PANTALON PALAZOS CORDEROY FRIZADOS	6500	0	5	1	ALOHA
-A11	ZAPATILLAS BBO MULTICOLOR OFERTAS 35AL 40	7875	0	4	1	ALOHA
-A110	BOXER UOMO NORMAL	1875	0	20	1	ALOHA
-A111	BOXER JUVENIL	875	0	5	1	ALOHA
-A112	BOXER NIÑO	750	0	3	1	ALOHA
-A113	BOXER NENA JUVENIL	750	0	2	1	ALOHA
-A114	BOMBACHA DE NENA	625	0	17	1	ALOHA
-A115	SLIP HOMBRE	1250	0	1	1	ALOHA
-A116	COLALESS CON STRASS	1750	0	10	1	ALOHA
-A117	COLALESS ESPECIAL	875	0	33	1	ALOHA
-A118	Colales Economicos Varios	625	0	40	1	ALOHA
+A11	ZAPATILLAS BBO MULTICOLOR OFERTAS 35AL 40	7900	0	4	1	ALOHA
+A110	BOXER UOMO NORMAL	1900	0	20	1	ALOHA
+A111	BOXER JUVENIL	900	0	5	1	ALOHA
+A112	BOXER NIÑO	800	0	3	1	ALOHA
+A113	BOXER NENA JUVENIL	800	0	2	1	ALOHA
+A114	BOMBACHA DE NENA	700	0	17	1	ALOHA
+A115	SLIP HOMBRE	1300	0	1	1	ALOHA
+A116	COLALESS CON STRASS	1800	0	10	1	ALOHA
+A117	COLALESS ESPECIAL	900	0	33	1	ALOHA
+A118	Colales Economicos Varios	700	0	40	1	ALOHA
 A119	Bedetinas	1000	0	84	1	ALOHA
 A12	ZAPATILLAS 35AL 40 PLANTA PESADA	8500	0	13	1	ALOHA
-A120	Colales Sin Costura Media CinturaAlta	1250	0	5	1	ALOHA
-A121	Colales CinturaAlta (faja)	3125	0	7	1	ALOHA
-A122	Colales Sin Costura	1250	0	23	1	ALOHA
-A123	Bedetina Sin Costuras	1250	0	6	1	ALOHA
+A120	Colales Sin Costura Media CinturaAlta	1300	0	5	1	ALOHA
+A121	Colales CinturaAlta (faja)	3200	0	7	1	ALOHA
+A122	Colales Sin Costura	1300	0	23	1	ALOHA
+A123	Bedetina Sin Costuras	1300	0	6	1	ALOHA
 A124	Colales Con Tiras Regulables	1000	0	3	1	ALOHA
 A125	Corpiños Especial	2500	0	29	1	ALOHA
-A126	Corpiños Normal Varios	2375	0	12	1	ALOHA
+A126	Corpiños Normal Varios	2400	0	12	1	ALOHA
 A127	Corpiños Sin Costura Conjunto	4500	0	11	1	ALOHA
-A128	Corpiños De 3 Piezas Normal	5250	0	11	1	ALOHA
+A128	Corpiños De 3 Piezas Normal	5300	0	11	1	ALOHA
 A129	Corpiños Deportivos Micro Fibra	2500	0	2	1	ALOHA
 A13	ZAPATILLAS GUUCI DAMA 35AL 40 	14500	0	8	1	ALOHA
-A130	Colales Especiales DeAlgodon	1875	0	8	1	ALOHA
+A130	Colales Especiales DeAlgodon	1900	0	8	1	ALOHA
 A131	Colales Regulables DeAlgodon	1500	0	15	1	ALOHA
 A132	Bedetinas DeAlgodon	1500	0	9	1	ALOHA
 A133	Colales DeAlgodon Normal	1500	0	2	1	ALOHA
 A134	Colales Con Encaje	2000	0	4	1	ALOHA
 A135	Colales Regulables Con Encaje	1500	0	4	1	ALOHA
-A136	Campera Nike Deportiba	6125	0	4	1	ALOHA
+A136	Campera Nike Deportiba	6200	0	4	1	ALOHA
 A137	Medias 3/4 Unisex	500	0	33	1	ALOHA
-A138	MediasAnti Deslizantes	2375	0	12	1	ALOHA
+A138	MediasAnti Deslizantes	2400	0	12	1	ALOHA
 A139	Medias Soquetes De Invierno	500	0	9	1	ALOHA
-A14	ZAPATILLAS NB BALANCE	17125	0	3	1	ALOHA
-A140	Medias Soquetes De Verano	375	0	80	1	ALOHA
+A14	ZAPATILLAS NB BALANCE	17200	0	3	1	ALOHA
+A140	Medias Soquetes De Verano	400	0	80	1	ALOHA
 A141	Medias Deportiva Puma YAdidas	1000	0	15	1	ALOHA
 A142	Medias 3/4 DeAlgodon	1500	0	11	1	ALOHA
-A143	Medias Toalla Comun	625	0	8	1	ALOHA
+A143	Medias Toalla Comun	700	0	8	1	ALOHA
 A144	Medias 3/4 De Invierno Dama	500	0	19	1	ALOHA
 A145	Medias Dama 3/4 Finas	500	0	14	1	ALOHA
-A146	MEDIAS SOQUETES DAMA ECONOMICO	250	0	54	1	ALOHA
+A146	MEDIAS SOQUETES DAMA ECONOMICO	300	0	54	1	ALOHA
 A147	MEDIAS DAMA,SOQUETE INVIERNO	500	0	12	1	ALOHA
-A148	MEDIAS INVISIBLE DAMA Y HOMBRE	375	0	93	1	ALOHA
-A149	MEDIAS SOQUETES FINAS DAMA	375	0	58	5	ALOHA
+A148	MEDIAS INVISIBLE DAMA Y HOMBRE	400	0	93	1	ALOHA
+A149	MEDIAS SOQUETES FINAS DAMA	400	0	58	5	ALOHA
 A15	ZAPATILLAS BLANCASALESTAN 35AL 40	11000	0	5	1	ALOHA
 A150	MEDIAS 3/4 JUVENIL 6AL 8 8AL 10	500	0	27	1	ALOHA
-A151	MEDIAS SOQUETES JUVENIL NENA ECONOMICAS	250	0	48	1	ALOHA
-A152	MEDIAS SOQUETE JUVENIL VI-MAS	375	0	46	0	ALOHA
+A151	MEDIAS SOQUETES JUVENIL NENA ECONOMICAS	300	0	48	1	ALOHA
+A152	MEDIAS SOQUETE JUVENIL VI-MAS	400	0	46	0	ALOHA
 A153	MEDIAS 3/4 NENA JUVENIL	500	0	13	1	ALOHA
-A154	MEDIAS SOQUTES DE NENE 4-6 10-12	375	0	13	1	ALOHA
+A154	MEDIAS SOQUTES DE NENE 4-6 10-12	400	0	13	1	ALOHA
 A155	ZAPATOS ZORPAZOS CON CORDON 39-44	10500	0	1	1	ALOHA
-A156	PANTALON SASTREROS 36-42	10625	0	4	1	ALOHA
-A157	PANTALON SASTREROS DE BENGALINA	8375	0	4	1	ALOHA
-A158	PANTALON BENGALINA OXFOR	8375	0	5	1	ALOHA
-A159	VESTIDOS DE FIBRANA 	6875	0	7	1	ALOHA
-A16	ZAPATILLAS ELIA  FASHION 36AL 41	10750	0	1	1	ALOHA
-A160	VERSTIDOS DE LINO CON MANGA 	10250	0	2	1	- Sin Departamento -
+A156	PANTALON SASTREROS 36-42	10700	0	4	1	ALOHA
+A157	PANTALON SASTREROS DE BENGALINA	8400	0	4	1	ALOHA
+A158	PANTALON BENGALINA OXFOR	8400	0	5	1	ALOHA
+A159	VESTIDOS DE FIBRANA 	6900	0	7	1	ALOHA
+A16	ZAPATILLAS ELIA  FASHION 36AL 41	10800	0	1	1	ALOHA
+A160	VERSTIDOS DE LINO CON MANGA 	10300	0	2	1	- Sin Departamento -
 A161	BERMUDAS DE VENGALINA	8500	0	4	1	ALOHA
 A162	SHORT SASTREROS CON CINTO	9500	0	11	1	ALOHA
-A163	REMERAS PAISANAS	8750	0	6	1	ALOHA
+A163	REMERAS PAISANAS	8800	0	6	1	ALOHA
 A164	SHORT SASTRERO YI MEI	6000	0	6	1	ALOHA
 A165	SHORT ENGOMADOS	8500	0	2	1	ALOHA
 A166	SHORT POLLERA ENGOMADO	11500	0	2	1	ALOHA
 A167	SHORT POLLERA BENGALINA	8500	0	4	1	ALOHA
-A168	SHORT POLLERA BENGALINA LISAS	10750	0	2	1	ALOHA
+A168	SHORT POLLERA BENGALINA LISAS	10800	0	2	1	ALOHA
 A169	SHORT POLLERA FUXIA	8000	0	1	1	ALOHA
-A17	ZAPATILLAS KARIF REINA 36AL 41	12750	0	7	1	ALOHA
-A170	SHORT BENGALINA BASICAS	5250	0	5	1	ALOHA
-A171	SHORT POLLERA BENGALINA NEGRA	10750	0	1	1	ALOHA
+A17	ZAPATILLAS KARIF REINA 36AL 41	12800	0	7	1	ALOHA
+A170	SHORT BENGALINA BASICAS	5300	0	5	1	ALOHA
+A171	SHORT POLLERA BENGALINA NEGRA	10800	0	1	1	ALOHA
 A172	SHORT SASTREROS BASICOS	6000	0	4	1	ALOHA
 A173	SHORT NDE VESTIR CON TIRAS	11000	0	3	1	ALOHA
 A174	SHORT POLIESTER CON BOLADOS	6500	0	2	1	ALOHA
 A175	SHORT ENGOMADOS VARIOS	6000	0	6	1	ALOHA
 A176	SHORT ENGOMADO CON TIRAS	6000	0	2	1	ALOHA
-A177	SHORT DE VESTIR BLANCO	5750	0	1	1	ALOHA
-A178	SHORT DEALGODON	4375	0	1	1	ALOHA
-A179	POLLERAS CON BRILLO	7750	0	2	1	ALOHA
-A18	ZAPATILLAS 40AL 45 ( OFERTAS )	6250	0	4	0	ALOHA
-A180	POLLERAS BENGALINA VARIAS	5250	0	7	1	ALOHA
-A181	POLLERAS TABLEADAS	8250	0	2	1	ALOHA
-A182	POLLERAS VENGALINA CON EVILLAS  Y LISA ROJAS	7250	0	2	1	ALOHA
-A183	POLLERAS DE BENGALINAS VARIAS TALLES 2 Y 3	7250	0	12	1	ALOHA
+A177	SHORT DE VESTIR BLANCO	5800	0	1	1	ALOHA
+A178	SHORT DEALGODON	4400	0	1	1	ALOHA
+A179	POLLERAS CON BRILLO	7800	0	2	1	ALOHA
+A18	ZAPATILLAS 40AL 45 ( OFERTAS )	6300	0	4	0	ALOHA
+A180	POLLERAS BENGALINA VARIAS	5300	0	7	1	ALOHA
+A181	POLLERAS TABLEADAS	8300	0	2	1	ALOHA
+A182	POLLERAS VENGALINA CON EVILLAS  Y LISA ROJAS	7300	0	2	1	ALOHA
+A183	POLLERAS DE BENGALINAS VARIAS TALLES 2 Y 3	7300	0	12	1	ALOHA
 A184	POLLERAS LAYCRA COLORES	8000	0	5	1	ALOHA
-A185	POLLERAS BRILLOSAS	5750	0	2	1	ALOHA
+A185	POLLERAS BRILLOSAS	5800	0	2	1	ALOHA
 A186	POLLERAS LISAS DE COLOR	5000	0	2	1	ALOHA
-A187	POLLERAS DE FIBRANA	4250	0	2	1	ALOHA
-A188	POLLERAS CEBRA CON BOLADOS	6750	0	2	1	ALOHA
-A189	POLLERAS BENGALINA VARIAS	4750	0	8	1	ALOHA
+A187	POLLERAS DE FIBRANA	4300	0	2	1	ALOHA
+A188	POLLERAS CEBRA CON BOLADOS	6800	0	2	1	ALOHA
+A189	POLLERAS BENGALINA VARIAS	4800	0	8	1	ALOHA
 A19	ZAPATILLAS DE LONA 36AL 44	8500	0	16	1	ALOHA
 A190	POLLERAS CON TOP	11500	0	3	1	ALOHA
-A191	POLLERAS DE COLORESARGOLLA CORDON CADENA STRAS	9750	0	4	1	ALOHA
-A192	POLLERAS BRILLOS Y ENGOMADAS	11750	0	6	1	ALOHA
+A191	POLLERAS DE COLORESARGOLLA CORDON CADENA STRAS	9800	0	4	1	ALOHA
+A192	POLLERAS BRILLOS Y ENGOMADAS	11800	0	6	1	ALOHA
 A193	POLLERA TABLEADA BLANCA	9000	0	1	1	ALOHA
-A194	POLLERA TABLEADA CON CIERRE	8125	0	1	1	ALOHA
+A194	POLLERA TABLEADA CON CIERRE	8200	0	1	1	ALOHA
 A195	TOP NEGROS  CON BRILLOS 	4500	0	3	1	- Sin Departamento -
-A196	TOPAZUL Y ROJO	6875	0	3	1	ALOHA
-A197	TOP CON TIRITAS	3750	0	5	1	ALOHA
-A198	TOP BENGALINA CON TIRAS	4375	0	3	1	ALOHA
+A196	TOPAZUL Y ROJO	6900	0	3	1	ALOHA
+A197	TOP CON TIRITAS	3800	0	5	1	ALOHA
+A198	TOP BENGALINA CON TIRAS	4400	0	3	1	ALOHA
 A199	TOP CORSET	2500	0	5	1	ALOHA
-A2	ZAPATILLAS CLEVER HOMBRE 40AL 44	14375	0	12	1	ALOHA
-A20	ZAPATILLAS CUERO DLK Y VELOCITY 35AL 39 	9875	0	N/A	1	ALOHA
+A2	ZAPATILLAS CLEVER HOMBRE 40AL 44	14400	0	12	1	ALOHA
+A20	ZAPATILLAS CUERO DLK Y VELOCITY 35AL 39 	9900	0	N/A	1	ALOHA
 A200	TOP SIMPLES	2500	0	2	1	- Sin Departamento -
-A201	TOP ENGOMADO BRILLO	5250	0	1	1	- Sin Departamento -
+A201	TOP ENGOMADO BRILLO	5300	0	1	1	- Sin Departamento -
 A202	TOP CON EVILLA	4500	0	0	1	ALOHA
-A203	BLUSAS DE VESTIR CON BOLADOS	6125	0	9	1	ALOHA
-A204	REMERAS DE FIBRANA MANGAS CORTAS	4875	0	3	1	ALOHA
-A205	BLUSAS LISAS	5250	0	2	1	ALOHA
-A206	BLUSAS CON BOLADOS LISAS	5250	0	3	1	ALOHA
+A203	BLUSAS DE VESTIR CON BOLADOS	6200	0	9	1	ALOHA
+A204	REMERAS DE FIBRANA MANGAS CORTAS	4900	0	3	1	ALOHA
+A205	BLUSAS LISAS	5300	0	2	1	ALOHA
+A206	BLUSAS CON BOLADOS LISAS	5300	0	3	1	ALOHA
 A207	REMERAS DE VESTIR CON TIRAS Y BRILLOS	7000	0	3	1	ALOHA
-A208	BLUSAS DE VESTIR MUSCULOSA	5750	0	6	1	ALOHA
-A209	REMERITAS DE VESTIR UN SOLO HOMBRO	5375	0	2	1	ALOHA
+A208	BLUSAS DE VESTIR MUSCULOSA	5800	0	6	1	ALOHA
+A209	REMERITAS DE VESTIR UN SOLO HOMBRO	5400	0	2	1	ALOHA
 A21	ZAPATOS CHATITAS DE DAMA 36AL 41	9000	0	10	1	ALOHA
 A210	REMERA SEDA	6000	0	1	1	ALOHA
-A211	BLUSAS BLANCAS CON PUNTILLAS	7250	0	5	1	ALOHA
-A212	BODYS MANGAS LARGA	3750	0	3	1	ALOHA
-A213	BODYS CON TIRAS Y ENCAJES	6125	0	5	1	ALOHA
+A211	BLUSAS BLANCAS CON PUNTILLAS	7300	0	5	1	ALOHA
+A212	BODYS MANGAS LARGA	3800	0	3	1	ALOHA
+A213	BODYS CON TIRAS Y ENCAJES	6200	0	5	1	ALOHA
 A214	BODYS VARIOS	4500	0	4	1	ALOHA
 A215	BODYS COMUN	2500	0	2	1	ALOHA
-A216	MUSCULOSAS DEALGODON	3750	0	10	1	ALOHA
+A216	MUSCULOSAS DEALGODON	3800	0	10	1	ALOHA
 A217	MUSCULOSA ESTAMPADA	4500	0	3	1	ALOHA
 A218	REMERAS DEALGODON VARIAS	4000	0	14	1	ALOHA
-A219	REMERAS VARIAS	3750	0	8	1	ALOHA
+A219	REMERAS VARIAS	3800	0	8	1	ALOHA
 A22	BORCEGOS UNISEX 36AL 41	11000	0	11	1	ALOHA
 A220	BUSOS LARGOS C / CAPUCHA	9500	0	5	1	ALOHA
 A221	POLERAS DE LANA	9500	0	2	1	ALOHA
-A222	POLERAS VARIAS	3750	0	4	1	ALOHA
-A223	CAMISA LEÑADORA	6250	0	0	1	ALOHA
-A224	POLERONES	5250	0	2	1	ALOHA
+A222	POLERAS VARIAS	3800	0	4	1	ALOHA
+A223	CAMISA LEÑADORA	6300	0	0	1	ALOHA
+A224	POLERONES	5300	0	2	1	ALOHA
 A225	POLERAS DE MODAL	4000	0	7	1	ALOHA
-A226	SUETER DE LANA COLORES	9750	0	3	1	ALOHA
-A227	CAMPERA CUERINA ROJA	9750	0	1	1	ALOHA
-A228	POLERAS VARIAS	2750	0	27	1	ALOHA
+A226	SUETER DE LANA COLORES	9800	0	3	1	ALOHA
+A227	CAMPERA CUERINA ROJA	9800	0	1	1	ALOHA
+A228	POLERAS VARIAS	2800	0	27	1	ALOHA
 A229	POLERAANIMAL PRINCH	6000	0	1	1	ALOHA
-A23	BORCEGOS JUVENIL 30AL 36	10625	0	N/A	1	ALOHA
+A23	BORCEGOS JUVENIL 30AL 36	10700	0	N/A	1	ALOHA
 A230	SUETER LISOS	7000	0	5	1	ALOHA
 A231	CAMPERA ENGOMADA NEGRA	11000	0	1	1	ALOHA
-A232	BLUSA DE FIBRANA SEÑORA	4750	0	3	1	ALOHA
-A233	BLEISER SIN MANGAS	8625	0	2	1	ALOHA
+A232	BLUSA DE FIBRANA SEÑORA	4800	0	3	1	ALOHA
+A233	BLEISER SIN MANGAS	8700	0	2	1	ALOHA
 A234	BLUSA FIBRANAA RAYAS	6000	0	1	1	ALOHA
 A235	REMERAS DE SEÑORA BORDADAS	6000	0	2	1	ALOHA
-A236	BLUSAS DE VESTIR	7250	0	7	1	ALOHA
-A237	BLUSASANIMAL PRINSH	6125	0	1	1	ALOHA
+A236	BLUSAS DE VESTIR	7300	0	7	1	ALOHA
+A237	BLUSASANIMAL PRINSH	6200	0	1	1	ALOHA
 A238	CAMISAS VARIAS	6000	0	4	1	ALOHA
-A239	VESTIDO BLANCO 	6875	0	1	1	- Sin Departamento -
-A24	ZAPATOS ZORPASOS  SIN CORDON 39AL 41	9625	0	13	1	ALOHA
-A240	VESTIDOS CON ELASTICOS 	4750	0	3	1	- Sin Departamento -
-A241	VESTIDOS CON TIRAS 	4750	0	16	1	- Sin Departamento -
+A239	VESTIDO BLANCO 	6900	0	1	1	- Sin Departamento -
+A24	ZAPATOS ZORPASOS  SIN CORDON 39AL 41	9700	0	13	1	ALOHA
+A240	VESTIDOS CON ELASTICOS 	4800	0	3	1	- Sin Departamento -
+A241	VESTIDOS CON TIRAS 	4800	0	16	1	- Sin Departamento -
 A242	VESTIDOS SUELTOS NEGROS 	6000	0	2	1	ALOHA
-A243	VESTIDO DE FIESTA ROJO 	6875	0	2	0	- Sin Departamento -
-A244	VESTIDO DE FIESTA CON FRUNCE 	6375	0	2	1	- Sin Departamento -
-A245	CAMPERAS DE JEANS VARIAS	10250	0	4	1	ALOHA
-A246	Remeritas Con Bolados	5250	0	4	1	ALOHA
-A247	Remeras DeAlgodon Elastizadas	4750	0	4	1	ALOHA
-A248	Musculosa Con Cuello	4375	0	2	1	ALOHA
-A249	Remeras Con Cuello Y Cierre	7625	0	1	1	ALOHA
-A25	ZAPATILLAS 31AL 36 ECO UNISEX PLANTA PESADA	6875	0	34	1	ALOHA
+A243	VESTIDO DE FIESTA ROJO 	6900	0	2	0	- Sin Departamento -
+A244	VESTIDO DE FIESTA CON FRUNCE 	6400	0	2	1	- Sin Departamento -
+A245	CAMPERAS DE JEANS VARIAS	10300	0	4	1	ALOHA
+A246	Remeritas Con Bolados	5300	0	4	1	ALOHA
+A247	Remeras DeAlgodon Elastizadas	4800	0	4	1	ALOHA
+A248	Musculosa Con Cuello	4400	0	2	1	ALOHA
+A249	Remeras Con Cuello Y Cierre	7700	0	1	1	ALOHA
+A25	ZAPATILLAS 31AL 36 ECO UNISEX PLANTA PESADA	6900	0	34	1	ALOHA
 A250	Musculosas Con Bordes Surfilados	3500	0	5	1	ALOHA
-A251	Remeras Morley Basicas	2250	0	9	1	ALOHA
-A252	Remeras De Modal Basicas	2250	0	3	1	ALOHA
-A253	Remeras BasicaA Rayas	2250	0	4	1	ALOHA
-A254	Remeras DeAlgodon Estampada	5250	0	2	1	ALOHA
-A255	Remeras DeAlgodon Lisas	6875	0	2	1	ALOHA
-A256	CORPIÑOS MICRO FIBRA	2750	0	8	1	ALOHA
+A251	Remeras Morley Basicas	2300	0	9	1	ALOHA
+A252	Remeras De Modal Basicas	2300	0	3	1	ALOHA
+A253	Remeras BasicaA Rayas	2300	0	4	1	ALOHA
+A254	Remeras DeAlgodon Estampada	5300	0	2	1	ALOHA
+A255	Remeras DeAlgodon Lisas	6900	0	2	1	ALOHA
+A256	CORPIÑOS MICRO FIBRA	2800	0	8	1	ALOHA
 A257	CORPIÑOS TOP DE MICRO FIBRA	3500	0	9	1	ALOHA
 A258	CORPIÑOS JUVENIL PRINCIPIANTE	1500	0	10	1	ALOHA
-A259	PALAZOS LISOS NORMAL	5750	0	12	1	ALOHA
-A26	ZAPATILLAS ECO 36 31AL 36 PLANTA LIVINA 	7250	0	35	1	ALOHA
-A260	ZAPATILLAS PUMITAS 17AL 20 	5625	0	10	1	- Sin Departamento -
-A261	JEANS WID LED NORMAL	10625	0	9	1	ALOHA
-A262	JEANS CARGO MON NORMAL	10250	0	10	1	ALOHA
-A263	MOCHILAS DEPORTIVAS	11875	0	6	1	ALOHA
-A264	BOLSOS DE VIAJE CHICOS JUST DO IT	11625	0	6	1	ALOHA
-A265	BRETEL PARA CORPIÑOS	750	0	12	1	ALOHA
-A266	MOCHILITAS DE COLORES	6875	0	3	1	ALOHA
-A267	MOCHILAS NEGRAS CON CIERRES VARIOS	10250	0	2	1	ALOHA
-A268	MOCHILAS DE CUERO CINTAANCHA	12375	0	3	1	ALOHA
-A269	MOCHILAS CON CIERRES BLANCOS	12375	0	2	1	ALOHA
-A27	ZAPATILLAS 31AL 36 ZAINO MILENIO NIKE P/ LIVIANA 	7625	0	19	1	ALOHA
+A259	PALAZOS LISOS NORMAL	5800	0	12	1	ALOHA
+A26	ZAPATILLAS ECO 36 31AL 36 PLANTA LIVINA 	7300	0	35	1	ALOHA
+A260	ZAPATILLAS PUMITAS 17AL 20 	5700	0	10	1	- Sin Departamento -
+A261	JEANS WID LED NORMAL	10700	0	9	1	ALOHA
+A262	JEANS CARGO MON NORMAL	10300	0	10	1	ALOHA
+A263	MOCHILAS DEPORTIVAS	11900	0	6	1	ALOHA
+A264	BOLSOS DE VIAJE CHICOS JUST DO IT	11700	0	6	1	ALOHA
+A265	BRETEL PARA CORPIÑOS	800	0	12	1	ALOHA
+A266	MOCHILITAS DE COLORES	6900	0	3	1	ALOHA
+A267	MOCHILAS NEGRAS CON CIERRES VARIOS	10300	0	2	1	ALOHA
+A268	MOCHILAS DE CUERO CINTAANCHA	12400	0	3	1	ALOHA
+A269	MOCHILAS CON CIERRES BLANCOS	12400	0	2	1	ALOHA
+A27	ZAPATILLAS 31AL 36 ZAINO MILENIO NIKE P/ LIVIANA 	7700	0	19	1	ALOHA
 A270	MOCHILA PEQUEÑA ENCHAROLADA	9000	0	1	1	ALOHA
 A271	MOCHILAS DE COLORES CON TRABA	9000	0	3	1	ALOHA
-A272	BILLETERA DAMA	6250	0	2	1	ALOHA
-A273	JEANS PALAZO CON ROTURA	10375	0	6	1	ALOHA
+A272	BILLETERA DAMA	6300	0	2	1	ALOHA
+A273	JEANS PALAZO CON ROTURA	10400	0	6	1	ALOHA
 A274	GORROS CONARGOLLA	4000	0	2	1	ALOHA
-A275	MOCHILAS DE CUERO NEGRA HYH 	20250	0	4	1	ALOHA
-A276	CARTERA VERDE CON CADENA 	19125	0	1	1	ALOHA
-A277	CARTERA ROSADA BAIDE 	16875	0	1	1	ALOHA
+A275	MOCHILAS DE CUERO NEGRA HYH 	20300	0	4	1	ALOHA
+A276	CARTERA VERDE CON CADENA 	19200	0	1	1	ALOHA
+A277	CARTERA ROSADA BAIDE 	16900	0	1	1	ALOHA
 A278	Remera Morley Manga Princesa 	5000	0	3	1	ALOHA
-A279	Remerones Batik 	5250	0	4	1	ALOHA
-A28	ZAPATILLAS DE LONA 28AL 35 UNISEX	4750	0	12	1	ALOHA
-A280	Remerones Lisos 	5625	0	6	1	ALOHA
-A281	RemerasAlgodonAnime, GAME OVER 	5625	0	2	1	ALOHA
-A282	Remeras Morley Dama, Varias 	5250	0	4	1	ALOHA
+A279	Remerones Batik 	5300	0	4	1	ALOHA
+A28	ZAPATILLAS DE LONA 28AL 35 UNISEX	4800	0	12	1	ALOHA
+A280	Remerones Lisos 	5700	0	6	1	ALOHA
+A281	RemerasAlgodonAnime, GAME OVER 	5700	0	2	1	ALOHA
+A282	Remeras Morley Dama, Varias 	5300	0	4	1	ALOHA
 A283	Zandalias Tiras Crusadas 	9000	0	3	1	- Sin Departamento -
-A284	ZANDALIAS PLANTAALTA TRENZADO	10250	0	3	1	- Sin Departamento -
-A285	ZANDALIA BAJAS	7250	0	3	1	- Sin Departamento -
-A286	ZANDALIA 2 TIRAS BAJAS	6625	0	2	1	- Sin Departamento -
-A287	ZANDALIA SE VESTIR 	8375	0	2	1	- Sin Departamento -
+A284	ZANDALIAS PLANTAALTA TRENZADO	10300	0	3	1	- Sin Departamento -
+A285	ZANDALIA BAJAS	7300	0	3	1	- Sin Departamento -
+A286	ZANDALIA 2 TIRAS BAJAS	6700	0	2	1	- Sin Departamento -
+A287	ZANDALIA SE VESTIR 	8400	0	2	1	- Sin Departamento -
 A288	ZANDALIA 	7500	0	3	1	- Sin Departamento -
-A289	ZANDALIAS PUNY ZAFIRO	10875	0	4	1	- Sin Departamento -
+A289	ZANDALIAS PUNY ZAFIRO	10900	0	4	1	- Sin Departamento -
 A29	ZAPATILLAS CUERINA 30AL 35 BBO 	6500	0	8	1	ALOHA
-A290	ZANDALIAS CON TACHAS VAJITAS 	7125	0	2	1	- Sin Departamento -
+A290	ZANDALIAS CON TACHAS VAJITAS 	7200	0	2	1	- Sin Departamento -
 A291	ZANDALIASALTAS 	10500	0	2	1	- Sin Departamento -
-A292	ZANDALIAS CON EVILLA Y TRENZADAS 	5625	0	2	1	- Sin Departamento -
+A292	ZANDALIAS CON EVILLA Y TRENZADAS 	5700	0	2	1	- Sin Departamento -
 A293	ZANDALIA PLATAALTA CON BRILLO 	7500	0	1	1	- Sin Departamento -
-A294	ZANDALIA ZAFIRO 	7875	0	0	1	- Sin Departamento -
+A294	ZANDALIA ZAFIRO 	7900	0	0	1	- Sin Departamento -
 A295	ZANDALIAS CHAROLADAS 	13000	0	6	1	- Sin Departamento -
-A296	ZANDALIAS CON TACHAS 210	9375	0	5	1	- Sin Departamento -
-A297	ZANDALIA CON CADENA OFERTA	4375	0	2	0	- Sin Departamento -
+A296	ZANDALIAS CON TACHAS 210	9400	0	5	1	- Sin Departamento -
+A297	ZANDALIA CON CADENA OFERTA	4400	0	2	0	- Sin Departamento -
 A298	ZANDALIA COD 700	9000	0	2	1	- Sin Departamento -
 A299	ZANDALIA CON CADENA NEGRA OFERTA 	6000	0	1	0	- Sin Departamento -
-A3	ZAPATILLAS LB 35AL 40	13125	0	16	1	ALOHA
-A30	ZAPATILLAS DE CUERO FYL	6875	0	1	1	ALOHA
-A300	ZANDALIAS TIRA FINA 3 CORAZONES 	12250	0	2	1	- Sin Departamento -
+A3	ZAPATILLAS LB 35AL 40	13200	0	16	1	ALOHA
+A30	ZAPATILLAS DE CUERO FYL	6900	0	1	1	ALOHA
+A300	ZANDALIAS TIRA FINA 3 CORAZONES 	12300	0	2	1	- Sin Departamento -
 A301	ZANDALIAS COD 380 OFERTA 	6000	0	1	0	- Sin Departamento -
 A302	ZANDALIAS PEZADAS OFERTA	6000	0	3	0	- Sin Departamento -
-A303	ZANDALIA TACOSALTOS 	10250	0	2	1	- Sin Departamento -
-A304	ZANDALIA COD 6160	10875	0	1	1	- Sin Departamento -
-A305	ZANDALIA COD 3020 	7875	0	2	1	- Sin Departamento -
-A306	SHORT DE VENGALINA CON TACHAS 	7750	0	5	1	ALOHA
-A307	PANCHAS NIÑO 25AL 30 	6125	0	12	1	ALOHA
+A303	ZANDALIA TACOSALTOS 	10300	0	2	1	- Sin Departamento -
+A304	ZANDALIA COD 6160	10900	0	1	1	- Sin Departamento -
+A305	ZANDALIA COD 3020 	7900	0	2	1	- Sin Departamento -
+A306	SHORT DE VENGALINA CON TACHAS 	7800	0	5	1	ALOHA
+A307	PANCHAS NIÑO 25AL 30 	6200	0	12	1	ALOHA
 A308	ZAPATILLAS NERM FASHION 32AL 37	9500	0	12	1	ALOHA
-A309	ZAPATILLAS 25AL 30 LD  	7375	0	12	1	ALOHA
-A31	ZAPATILLAS 25AL 30 BBO PLANTILLAALTA 	7750	0	14	1	ALOHA
+A309	ZAPATILLAS 25AL 30 LD  	7400	0	12	1	ALOHA
+A31	ZAPATILLAS 25AL 30 BBO PLANTILLAALTA 	7800	0	14	1	ALOHA
 A310	ZAPATOS CON CORDON 	9500	0	12	1	ALOHA
 A311	ZAPATILLAS JING LONG 40AL 45	11500	0	12	1	ALOHA
-A312	CALZAS BIKER ESTAMPADAS NORMAL	4125	0	12	1	ALOHA
-A313	CALZAS CORTAS ESTAMPADAS NORMAL	3125	0	12	1	ALOHA
-A314	CORPIÑOS SINARCO 	3125	0	12	1	ALOHA
-A315	SLIPSADULTO NORMAL	1875	0	12	1	ALOHA
-A32	ZAPATILLAS 25AL 30 PLANTAS LIVIANAS 	6875	0	21	1	ALOHA
+A312	CALZAS BIKER ESTAMPADAS NORMAL	4200	0	12	1	ALOHA
+A313	CALZAS CORTAS ESTAMPADAS NORMAL	3200	0	12	1	ALOHA
+A314	CORPIÑOS SINARCO 	3200	0	12	1	ALOHA
+A315	SLIPSADULTO NORMAL	1900	0	12	1	ALOHA
+A32	ZAPATILLAS 25AL 30 PLANTAS LIVIANAS 	6900	0	21	1	ALOHA
 A33	ZAPATILLAS 25AL 30 	6500	0	4	1	ALOHA
-A34	ZAPATILLAS 25AL 30 SPORT 	6750	0	10	1	ALOHA
-A35	ZAPATILLAS 20AL 25  MARCA 2	6750	0	8	1	ALOHA
-A36	ZAPATILLAS 20AL 25 PLANTAS LIVIANAS COMUNES 	5625	0	13	1	ALOHA
-A37	ZAPATILLAS 20AL 25 PLANTILLA PESADA	5375	0	10	1	ALOHA
-A38	ZAPATILLAS PANCHAS UNISEX	7375	0	4	1	ALOHA
-A39	REMERAS IRUM ESPECIAL	9250	0	10	1	ALOHA
-A4	ZAPATILLASADIDAS 777 UNISEX 35AL 39	13125	0	5	1	ALOHA
+A34	ZAPATILLAS 25AL 30 SPORT 	6800	0	10	1	ALOHA
+A35	ZAPATILLAS 20AL 25  MARCA 2	6800	0	8	1	ALOHA
+A36	ZAPATILLAS 20AL 25 PLANTAS LIVIANAS COMUNES 	5700	0	13	1	ALOHA
+A37	ZAPATILLAS 20AL 25 PLANTILLA PESADA	5400	0	10	1	ALOHA
+A38	ZAPATILLAS PANCHAS UNISEX	7400	0	4	1	ALOHA
+A39	REMERAS IRUM ESPECIAL	9300	0	10	1	ALOHA
+A4	ZAPATILLASADIDAS 777 UNISEX 35AL 39	13200	0	5	1	ALOHA
 A40	REMERAS IRUM NORMAL	8500	0	10	1	ALOHA
-A41	REMERAS LACOSTE NORMAL	6125	0	9	1	ALOHA
-A42	REMERAS LACOSTE ESPECIAL	7250	0	9	1	ALOHA
-A43	REMERAS ECONOMICAS	4750	0	35	1	ALOHA
-A44	CHOMBAS ESPECIAL	7375	0	14	1	ALOHA
+A41	REMERAS LACOSTE NORMAL	6200	0	9	1	ALOHA
+A42	REMERAS LACOSTE ESPECIAL	7300	0	9	1	ALOHA
+A43	REMERAS ECONOMICAS	4800	0	35	1	ALOHA
+A44	CHOMBAS ESPECIAL	7400	0	14	1	ALOHA
 A45	CHOMBAS NORMAL	7000	0	10	1	ALOHA
-A46	TAVERNITI ESPECIAL	9250	0	2	1	ALOHA
-A47	REMERAS HOMBRE  DEPORTIVAS	5250	0	17	0	ALOHA
-A48	REMERAS DAMA DEPOTIVAS	4875	0	9	0	ALOHA
-A49	CHOMBAS DAMA, POLO	5750	0	3	1	ALOHA
+A46	TAVERNITI ESPECIAL	9300	0	2	1	ALOHA
+A47	REMERAS HOMBRE  DEPORTIVAS	5300	0	17	0	ALOHA
+A48	REMERAS DAMA DEPOTIVAS	4900	0	9	0	ALOHA
+A49	CHOMBAS DAMA, POLO	5800	0	3	1	ALOHA
 A50	TOP DEPORTIVOS 	4500	0	14	1	- Sin Departamento -
-A51	CARGOS DE VEANO	4875	0	5	1	ALOHA
-A52	PALAZOS NORMAL	5375	0	14	1	ALOHA
+A51	CARGOS DE VEANO	4900	0	5	1	ALOHA
+A52	PALAZOS NORMAL	5400	0	14	1	ALOHA
 A53	PALAZO LISOS ESPECIAL	6000	0	16	1	ALOHA
-A54	SHORTS DEPORTIVOS HOMBRE	6250	0	8	1	ALOHA
-A55	Jeans Capache Dama 36Al 46	10625	0	23	1	ALOHA
+A54	SHORTS DEPORTIVOS HOMBRE	6300	0	8	1	ALOHA
+A55	Jeans Capache Dama 36Al 46	10700	0	23	1	ALOHA
 A56	Cenito 46 32	15000	0	2	0	ALOHA
 A57	Jeans Economicos Striven  Y Capache 36Al 46	8500	0	6	0	ALOHA
-A58	Jeans Oxford 36Al 46	8125	0	12	1	ALOHA
+A58	Jeans Oxford 36Al 46	8200	0	12	1	ALOHA
 A59	Jeans Chupin 36Al 46	8000	0	19	1	ALOHA
 A6	ZAPATILLAS ECONOMICAS BBO VAYA VELOCYTI 	9500	0	139	1	ALOHA
-A60	Jeans Chupin Especial 46Al 52	8875	0	10	1	ALOHA
-A61	Jeans Cargo Dama  36Al 46	9750	0	11	1	ALOHA
+A60	Jeans Chupin Especial 46Al 52	8900	0	10	1	ALOHA
+A61	Jeans Cargo Dama  36Al 46	9800	0	11	1	ALOHA
 A62	Jeans Cargo Negros	9000	0	3	0	ALOHA
 A63	Jeans Cargo De Gabardina 36Al 44	7500	0	5	1	ALOHA
-A64	Bengalina Cargo Costuras Blanca	6875	0	0	1	ALOHA
-A65	Bengalina Cargo Lisos 36Al 44	6875	0	2	1	ALOHA
+A64	Bengalina Cargo Costuras Blanca	6900	0	0	1	ALOHA
+A65	Bengalina Cargo Lisos 36Al 44	6900	0	2	1	ALOHA
 A66	Jeans Babuchas Lisos 36Al 44	8500	0	4	1	ALOHA
-A67	Jeans Cargo Tela Verano	8375	0	0	1	ALOHA
-A68	Jeans Babuchas Jogger Dama 36Al 44	8250	0	4	1	ALOHA
-A69	Jeans Cenito Y Striven  Especial 52Al 58	17875	0	3	1	ALOHA
-A7	ZAPATILLAS UNISEX  MILENIUM NIKE IRUM 	11250	0	32	1	ALOHA
-A70	Jeans Street Especial 52Al 58	10750	0	8	1	ALOHA
-A71	Bengalina Oxford 36Al 46	6875	0	2	1	ALOHA
-A72	Engomado Chupin 36Al 44	7125	0	11	1	ALOHA
+A67	Jeans Cargo Tela Verano	8400	0	0	1	ALOHA
+A68	Jeans Babuchas Jogger Dama 36Al 44	8300	0	4	1	ALOHA
+A69	Jeans Cenito Y Striven  Especial 52Al 58	17900	0	3	1	ALOHA
+A7	ZAPATILLAS UNISEX  MILENIUM NIKE IRUM 	11300	0	32	1	ALOHA
+A70	Jeans Street Especial 52Al 58	10800	0	8	1	ALOHA
+A71	Bengalina Oxford 36Al 46	6900	0	2	1	ALOHA
+A72	Engomado Chupin 36Al 44	7200	0	11	1	ALOHA
 A73	Engomados Cargo 36Al 46	9000	0	4	1	ALOHA
-A74	Gorras Jeans	5750	0	6	1	ALOHA
-A75	ZAPATILLAS PLANTA PESADA OFERTA 36AL 41 	7250	0	4	1	- Sin Departamento -
+A74	Gorras Jeans	5800	0	6	1	ALOHA
+A75	ZAPATILLAS PLANTA PESADA OFERTA 36AL 41 	7300	0	4	1	- Sin Departamento -
 A76	SHORT NEVADO CARGO	9000	0	6	1	ALOHA
-A77	SHORTS DE JEANS GABUCCI 36AL 44	5875	0	8	1	ALOHA
+A77	SHORTS DE JEANS GABUCCI 36AL 44	5900	0	8	1	ALOHA
 A78	SHORTS DE JEANS CAPACHE YANA CLARA	8500	0	17	1	ALOHA
-A79	JEANS DE HOMBRE WAZZO ESPECIAL 46AL 52	15375	0	5	1	ALOHA
+A79	JEANS DE HOMBRE WAZZO ESPECIAL 46AL 52	15400	0	5	1	ALOHA
 A8	ZAPATILLAS ZAINO UNISEX 40AL 45	9500	0	13	1	ALOHA
-A80	JEANS WAZZO 36AL 44	14375	0	1	1	ALOHA
-A81	PANTALON DE GABARDINA 36AL 44	15625	0	6	1	ALOHA
-A82	JEANS TABERNITI CLASICOS 36AL 46	9375	0	13	1	ALOHA
-A83	JEANS TAVERNITI ESPECIAL  48AL 52	10250	0	5	1	ALOHA
-A84	JEANS CHUPIN 36AL 46	9375	0	10	1	ALOHA
+A80	JEANS WAZZO 36AL 44	14400	0	1	1	ALOHA
+A81	PANTALON DE GABARDINA 36AL 44	15700	0	6	1	ALOHA
+A82	JEANS TABERNITI CLASICOS 36AL 46	9400	0	13	1	ALOHA
+A83	JEANS TAVERNITI ESPECIAL  48AL 52	10300	0	5	1	ALOHA
+A84	JEANS CHUPIN 36AL 46	9400	0	10	1	ALOHA
 A85	SHORT DE JEANS ESPECIAL 48AL 54	8500	0	18	1	ALOHA
-A86	SHORTS NORMAL CON ROTURAS 36AL 46	7250	0	13	1	ALOHA
+A86	SHORTS NORMAL CON ROTURAS 36AL 46	7300	0	13	1	ALOHA
 A87	CAMISAS BLANCAS LISAS SAL 4XL	11000	0	12	1	ALOHA
 A88	CAMISAS MANGAS CORTAS ESTAMPADAS SAL XXL	11000	0	12	1	ALOHA
 A89	CAMISAS MANGAS CORTAS LISAS SAL 4XL	12500	0	9	1	ALOHA
 A9	ZAPATILLAS 35AL 39 VAYA Y ZAINO	9000	0	24	1	ALOHA
-A90	CAMISAS MANGAS CORTAS CUELLO MAO MAL XL	11250	0	9	1	ALOHA
+A90	CAMISAS MANGAS CORTAS CUELLO MAO MAL XL	11300	0	9	1	ALOHA
 A91	CAMISAS MANGAS CORTAS ESTAMPADAS SAL 2XL	10000	0	4	1	ALOHA
-A92	CAMISAS MANGAS LARGAS SAL 2XL LISAS Y ESTAMPADAS	13750	0	14	1	ALOHA
+A92	CAMISAS MANGAS LARGAS SAL 2XL LISAS Y ESTAMPADAS	13800	0	14	1	ALOHA
 A93	CAMISAS ESPECIALES LISAS	15000	0	7	1	ALOHA
-A94	CAMISAS DE JEANS HOMBRE TALLE NORMAL	7750	0	5	1	ALOHA
-A95	CAMISAS DE JEANS DAMA TALLE NORMAL	7750	0	6	1	ALOHA
-A96	CALZAS LARGAS NIKE ,ADIDAS TALLES NORMAL SAL XL	6750	0	21	1	ALOHA
-A97	CALZAS LIZAS Y ESTAMPADAS ECONOMICAS TALLES NORMAL	5250	0	14	1	ALOHA
+A94	CAMISAS DE JEANS HOMBRE TALLE NORMAL	7800	0	5	1	ALOHA
+A95	CAMISAS DE JEANS DAMA TALLE NORMAL	7800	0	6	1	ALOHA
+A96	CALZAS LARGAS NIKE ,ADIDAS TALLES NORMAL SAL XL	6800	0	21	1	ALOHA
+A97	CALZAS LIZAS Y ESTAMPADAS ECONOMICAS TALLES NORMAL	5300	0	14	1	ALOHA
 A98	CALZAS ESPECIAL	6000	0	21	1	ALOHA
-A99	CALZAS FRIZADAS TALLES NORMAL	4750	0	3	1	ALOHA
- G0001	Conjuto Frisa Varon 6/16	7875	0	51	1	el galpon
+A99	CALZAS FRIZADAS TALLES NORMAL	4800	0	3	1	ALOHA
+ G0001	Conjuto Frisa Varon 6/16	7900	0	51	1	el galpon
