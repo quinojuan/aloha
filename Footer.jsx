@@ -9,10 +9,6 @@ const Footer = () => {
         <p className="mt-2 font-italic">Juan José Castelli - Chaco</p>
         <p className="text-primary text-xs">Actualizado al 14/11/2023</p>
       </div>
-      <form action="http://localhost:3000/file" method="post" enctype="multipart/form-data">
-        <input type="file" name="archivoExcel"></input>
-        <input type="submit" value="Enviar"></input>
-      </form>
     </>
   );
 };
