@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import XLSX from "xlsx/dist/xlsx.full.min.js";
 import "./App.css";
 import "/node_modules/primeflex/primeflex.css";
@@ -33,6 +33,8 @@ function App() {
   useEffect(() => {
     handleFile();
   }, [searchTerm]);
+
+  console.log({searchTerm})
 
   return (
     <div className="flex flex-column align-items-center bg-pink-50 content">
